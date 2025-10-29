@@ -1,0 +1,16 @@
+12:35:17 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:38 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:38 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:38 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:38 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+21:23:38 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV3
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | ✅ Parsed V3 signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4038.00', 'range2': '4041.00', 'tp1': '4045.00', 'tp2': '4045.00', 'sl': '4035.00', 'comment': 'kiboyhx'}
+21:23:39 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:39 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV3
+21:23:39 | INFO     | core.telegram.group_parsers.kiboyhx | ✅ Parsed V3 signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4043.00', 'range2': '4047.00', 'tp1': '4051.00', 'tp2': '4051.00', 'sl': '4040.00', 'comment': 'kiboyhx'}
+21:23:39 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:23:39 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.

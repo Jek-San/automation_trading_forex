@@ -1,0 +1,22 @@
+02:32:03 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+02:32:03 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+09:15:29 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+09:15:29 | INFO     | service.trade_signal_service | 📡 Found 3 pending signals.
+09:22:05 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+09:22:05 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+09:47:38 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+09:47:38 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+09:54:06 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+09:54:06 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+10:03:07 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+10:03:07 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+10:17:05 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+10:17:05 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+19:08:23 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+19:08:23 | INFO     | service.trade_signal_service | 📡 Found 10 pending signals.
+19:47:45 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+19:47:45 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+20:46:46 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+20:46:46 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+23:18:35 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+23:18:35 | INFO     | service.trade_signal_service | 📡 Found 3 pending signals.

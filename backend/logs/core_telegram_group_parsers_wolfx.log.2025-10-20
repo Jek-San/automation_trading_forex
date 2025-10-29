@@ -1,0 +1,8 @@
+10:11:18 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:11:18 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:13:51 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:13:51 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:22:48 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:22:48 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:25:20 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:25:20 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.

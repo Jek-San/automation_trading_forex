@@ -1,0 +1,246 @@
+05:28:57 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/37 new BOS events.
+05:44:01 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503
+05:44:01 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503
+05:44:01 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4146.02
+05:44:01 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4146.02
+05:44:01 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 4/38 new BOS events.
+05:59:05 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4146.02
+05:59:05 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/39 new BOS events.
+06:14:09 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/37 new BOS events.
+06:29:12 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/37 new BOS events.
+06:44:15 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/37 new BOS events.
+06:59:21 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4163.875
+06:59:21 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/38 new BOS events.
+07:14:27 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/38 new BOS events.
+07:29:30 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4163.875
+07:29:30 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/39 new BOS events.
+07:44:34 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/39 new BOS events.
+07:59:38 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/38 new BOS events.
+08:14:42 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/38 new BOS events.
+08:29:46 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.665
+08:29:46 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/38 new BOS events.
+08:44:49 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.665
+08:44:49 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/39 new BOS events.
+08:59:52 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.665
+08:59:52 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/39 new BOS events.
+09:14:56 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/37 new BOS events.
+09:27:45 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+09:42:48 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+09:45:06 | ERROR    | StructureService          | Error in run_step for XAUUSDc-M15: 'StructureService' object has no attribute '_get_recent_candles'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 18, in run_step
+    df = self._get_recent_candles(symbol, timeframe)
+AttributeError: 'StructureService' object has no attribute '_get_recent_candles'
+09:45:36 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.262
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4127.827
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4127.827
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4146.02
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4163.875
+09:45:55 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.665
+09:45:55 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 14/14 new BOS events.
+10:00:59 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.262 | broke swing from 2025-10-14 04:00:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738 | broke swing from 2025-10-14 04:30:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738 | broke swing from 2025-10-14 04:30:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4155.738 | broke swing from 2025-10-14 04:30:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4127.827 | broke swing from 2025-10-14 07:15:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4127.827 | broke swing from 2025-10-14 07:15:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822 | broke swing from 2025-10-14 09:45:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822 | broke swing from 2025-10-14 09:45:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bearish @ 4121.822 | broke swing from 2025-10-14 09:45:00
+10:05:37 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503 | broke swing from 2025-10-14 12:00:00
+10:05:38 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4134.503 | broke swing from 2025-10-14 12:00:00
+10:05:38 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4146.02 | broke swing from 2025-10-14 20:15:00
+10:05:38 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4163.875 | broke swing from 2025-10-14 22:15:00
+10:05:38 | INFO     | StructureService          | 🧱 BOS detected | XAUUSDc-M15 | bullish @ 4169.665 | broke swing from 2025-10-15 00:00:00
+10:05:38 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 14/14 new BOS events.
+10:20:41 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+10:35:45 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+10:50:49 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+10:58:38 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 0/14 new BOS events.
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4169.262 from 2025-10-14 04:00:00 at 2025-10-14 05:00:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4155.738 from 2025-10-14 04:30:00 at 2025-10-14 05:30:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4155.738 from 2025-10-14 04:30:00 at 2025-10-14 05:45:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4155.738 from 2025-10-14 04:30:00 at 2025-10-14 06:00:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4127.827 from 2025-10-14 07:15:00 at 2025-10-14 08:00:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4127.827 from 2025-10-14 07:15:00 at 2025-10-14 08:15:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4121.822 from 2025-10-14 09:45:00 at 2025-10-14 12:15:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4121.822 from 2025-10-14 09:45:00 at 2025-10-14 12:30:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bearish) | XAUUSDc-M15 | broke 4121.822 from 2025-10-14 09:45:00 at 2025-10-14 12:45:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4134.503 from 2025-10-14 12:00:00 at 2025-10-14 15:00:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4134.503 from 2025-10-14 12:00:00 at 2025-10-14 15:15:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4146.02 from 2025-10-14 20:15:00 at 2025-10-14 22:00:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4163.875 from 2025-10-14 22:15:00 at 2025-10-14 23:30:00
+10:59:21 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4169.665 from 2025-10-15 00:00:00 at 2025-10-15 01:00:00
+10:59:21 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 14/14 new BOS events.
+11:14:25 | INFO     | StructureService          | 🧱 BOS (bullish) | XAUUSDc-M15 | broke 4186.774 from 2025-10-15 01:15:00 at 2025-10-15 03:45:00
+11:14:25 | INFO     | StructureService          | [XAUUSDc-M15] ✅ Recorded 1/15 new BOS events.
+11:14:57 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:14:57 | ERROR    | StructureService          | Error in StructureService.run_step: 1054 (42S22): Unknown column 'structure_type' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'structure_type' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 35, in run_step
+    self._save_new_bos(symbol, timeframe, bos_events)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 137, in _save_new_bos
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'structure_type' in 'field list'
+11:16:07 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:16:07 | ERROR    | StructureService          | Error in StructureService.run_step: 1054 (42S22): Unknown column 'broken_price' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'broken_price' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 35, in run_step
+    self._save_new_bos(symbol, timeframe, bos_events)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 137, in _save_new_bos
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'broken_price' in 'field list'
+11:17:07 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+11:17:07 | INFO     | StructureService          | Inserted 144 BOS events into DB
+11:17:35 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+11:17:35 | INFO     | StructureService          | Inserted 144 BOS events into DB
+11:32:00 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+11:32:00 | INFO     | StructureService          | Inserted 144 BOS events into DB
+11:32:25 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:32:25 | INFO     | StructureService          | Inserted 145 BOS events into DB
+11:36:29 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:36:29 | INFO     | StructureService          | Inserted 145 BOS events into DB
+11:36:34 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:36:34 | INFO     | StructureService          | Inserted 145 BOS events into DB
+11:38:18 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+11:38:18 | INFO     | StructureService          | Inserted 145 BOS events into DB
+12:01:50 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+12:01:50 | INFO     | StructureService          | Inserted 145 BOS events into DB
+12:08:23 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+12:08:23 | INFO     | StructureService          | Inserted 145 BOS events into DB
+12:23:10 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:23:10 | ERROR    | StructureService          | Error in StructureService.run_step: Unread result found
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\db\connection.py", line 21, in get_connection
+    yield conn
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 133, in _save_new_bos
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 315, in execute
+    self._connection.handle_unread_result()
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 1121, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 35, in run_step
+    self._save_new_bos(symbol, timeframe, bos_events)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 128, in _save_new_bos
+    with get_connection() as conn:
+  File "C:\Users\ihsan\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\db\connection.py", line 26, in get_connection
+    if conn and conn.is_connected():
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 413, in is_connected
+    self.handle_unread_result()
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 1121, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+12:26:21 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:26:21 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:26:29 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:26:29 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:29:13 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:29:13 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:33:30 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:33:30 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:42:40 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:42:40 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:42:59 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:42:59 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:47:25 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:47:25 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:47:46 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:47:46 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+12:48:35 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+12:48:35 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+13:06:11 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+13:06:12 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+13:13:07 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+13:13:07 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+13:14:35 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+13:14:35 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+13:34:13 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+13:34:13 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+13:35:15 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+13:35:15 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+18:49:07 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+18:49:08 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+18:52:34 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+18:52:34 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+18:54:51 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+18:54:51 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+18:55:38 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+18:55:38 | ERROR    | StructureService          | Error in StructureService.run_step: 1054 (42S22): Unknown column 'pending' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'pending' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 35, in run_step
+    self._save_new_bos(symbol, timeframe, bos_events)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\structure_service.py", line 144, in _save_new_bos
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'pending' in 'field list'
+18:55:59 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+18:55:59 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+19:15:31 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+19:15:32 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+19:30:49 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+19:30:49 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+19:46:07 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+19:46:07 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+20:01:28 | INFO     | StructureService          | [Loose Mode] Found 144 BOS events
+20:01:28 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+20:16:55 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+20:16:55 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+20:32:10 | INFO     | StructureService          | [Loose Mode] Found 146 BOS events
+20:32:10 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+20:47:24 | INFO     | StructureService          | [Loose Mode] Found 145 BOS events
+20:47:24 | INFO     | StructureService          | Inserted new BOS (deduped) into DB

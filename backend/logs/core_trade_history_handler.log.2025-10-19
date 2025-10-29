@@ -1,0 +1,351 @@
+11:01:32 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:01:32 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:02:40 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:03:50 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:04:59 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:06:07 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:08:02 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:09:11 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:10:21 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:11:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:12:44 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:13:52 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:15:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:16:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:17:20 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:18:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:19:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:20:47 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:21:55 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:23:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:24:12 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:25:21 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:26:30 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:27:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:28:48 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:29:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:31:05 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:32:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:33:23 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:34:31 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:35:40 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:36:49 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:37:57 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:39:06 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:40:15 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:41:24 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:42:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:43:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:44:51 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:46:00 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:47:09 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:48:18 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:49:27 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:50:36 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:51:45 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:52:54 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:54:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:55:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:56:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:57:32 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:57:32 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:57:46 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:57:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:57:58 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:58:10 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:58:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:58:25 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:58:36 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:58:36 | INFO     | core.trade_history_handler | Trade history loop cancelled
+11:58:36 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:58:48 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:58:48 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:59:09 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:59:21 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:59:21 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+11:59:45 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+11:59:57 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+11:59:57 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:00:16 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:00:28 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:00:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:01:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:02:47 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:03:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:05:06 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:06:15 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:07:24 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:08:34 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:09:43 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:10:52 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:12:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:13:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:14:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:15:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:16:37 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:17:34 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:17:45 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:17:45 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:18:26 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:18:37 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:18:37 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:19:53 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:19:54 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:20:05 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:20:05 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:21:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:21:48 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:22:01 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:22:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:23:11 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:24:20 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:25:30 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:26:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:27:48 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:28:57 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:30:06 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:31:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:32:23 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:33:32 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:34:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:35:49 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:36:58 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:37:58 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:38:10 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:38:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:39:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:40:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:41:37 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:42:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:43:55 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:45:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:45:18 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:45:30 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:45:30 | INFO     | core.trade_history_handler | Trade history loop cancelled
+12:45:30 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+12:45:41 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+12:45:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:46:50 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:47:59 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:49:09 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:50:18 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:51:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:52:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:53:47 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:54:57 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:56:07 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:57:16 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:58:26 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+12:59:35 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:00:45 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:01:54 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:03:03 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:04:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:05:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:06:31 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:07:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:08:51 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:09:50 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+13:10:02 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+13:10:02 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:10:05 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+13:10:16 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+13:10:16 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:11:26 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:12:35 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:13:44 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:14:41 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+13:14:53 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+13:14:53 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:16:09 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:16:57 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+13:17:10 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+13:17:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:18:26 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:19:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:20:58 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:22:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:23:31 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:24:47 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:26:03 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:27:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:28:35 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:29:50 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:31:06 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:32:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:33:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:34:54 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:36:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:37:26 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:38:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:39:58 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:41:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:42:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:43:45 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:45:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:46:17 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:47:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:48:49 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:50:05 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:51:21 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:52:38 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:53:53 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:55:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:56:26 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:57:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+13:58:58 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:00:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:00:15 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:00:29 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:00:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:01:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:01:39 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:02:01 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:02:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:02:02 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:02:02 | INFO     | core.trade_history_handler | Trade history loop cancelled
+14:02:22 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:02:22 | INFO     | core.trade_history_handler | Trade history loop cancelled
+14:02:22 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:03:28 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:03:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:04:36 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:05:06 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:05:06 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:06:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:07:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:08:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:09:25 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:09:41 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:09:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:09:44 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:09:44 | INFO     | core.trade_history_handler | Trade history loop cancelled
+14:10:39 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:10:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:12:18 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:12:33 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:12:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:13:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:14:55 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:16:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:16:17 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:16:28 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:16:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:17:37 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:18:04 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+14:18:15 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+14:18:15 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:19:25 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:20:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:21:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:22:52 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:24:01 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:25:10 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:26:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:27:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:28:36 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:29:45 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:30:54 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:32:03 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:33:11 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:34:20 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:35:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:36:37 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:37:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:38:55 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:40:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:41:12 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:42:21 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:43:30 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:44:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:45:48 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:46:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:48:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:49:30 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:50:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:52:03 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:53:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:54:35 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+14:55:52 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:35:32 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:36:49 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:38:05 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:39:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:40:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:41:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:43:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:44:30 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:45:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:47:02 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:48:18 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:49:35 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:50:51 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:51:13 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:51:32 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:51:32 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:52:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:52:57 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:53:09 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:53:09 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:53:21 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:53:32 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:53:32 | INFO     | core.trade_history_handler | Trade history loop cancelled
+20:53:32 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:54:40 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:54:40 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:55:22 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:55:33 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:55:33 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:56:42 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:57:59 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+20:58:11 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+20:58:23 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+20:58:23 | INFO     | core.trade_history_handler | Trade history loop cancelled
+20:58:23 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:00:22 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:00:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:00:54 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:01:07 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:01:07 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:01:25 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:01:39 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:01:39 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:02:56 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:04:12 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:05:28 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:06:17 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:06:29 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:06:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:07:46 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:09:02 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:10:19 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:10:33 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:10:48 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:10:48 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:11:09 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:11:24 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:11:24 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:12:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:13:58 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:15:14 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:16:11 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:16:25 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:16:25 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:17:41 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:18:57 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:20:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:21:29 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:21:39 | INFO     | core.trade_history_handler | 🛑 Trade History Handler stopped.
+21:21:55 | INFO     | core.trade_history_handler | 📈 Trade History Handler started.
+21:21:55 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:23:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:24:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:25:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:26:31 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:27:40 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:28:49 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:30:04 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:31:13 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:32:22 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:33:31 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.
+21:34:40 | INFO     | core.trade_history_handler | 🔍 Found 34 trades needing update.

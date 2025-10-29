@@ -1,0 +1,520 @@
+00:12:39 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+00:12:39 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+00:12:41 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+00:12:41 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+00:12:41 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+00:12:41 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+00:12:41 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+00:12:41 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+00:13:02 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+00:13:02 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+00:13:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+00:13:03 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+00:13:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+00:13:03 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+00:13:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+00:13:03 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+00:13:27 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+00:13:27 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+00:13:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+00:13:29 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+00:13:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+00:13:29 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+00:13:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+00:13:29 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+00:15:47 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+00:15:47 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+00:15:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+00:15:48 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+00:15:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+00:15:48 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+00:15:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+00:15:48 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:43:49 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:43:49 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:43:50 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:43:50 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:43:50 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:43:50 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:43:50 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:43:50 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:46:04 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:46:04 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:46:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:46:05 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:46:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:46:05 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:46:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:46:05 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:46:21 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:46:21 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:46:22 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:46:22 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:46:22 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:46:22 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:46:22 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:46:22 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:46:41 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:46:41 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:46:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:46:42 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:46:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:46:42 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:46:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:46:42 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:47:00 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:47:00 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:47:01 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:47:01 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:47:01 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:47:01 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:47:01 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:47:01 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:48:04 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:48:04 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:48:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:48:05 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:48:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:48:05 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:48:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:48:05 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:48:44 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:48:44 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:48:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:48:45 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:48:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:48:45 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:48:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:48:45 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:51:56 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:51:56 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:51:57 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:51:57 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:51:57 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:51:57 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:51:57 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:51:57 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:57:55 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:57:55 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:57:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:57:56 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:57:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:57:56 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:57:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:57:56 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:58:17 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:58:17 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:58:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:58:19 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:58:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:58:19 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:58:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:58:19 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+01:59:24 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+01:59:24 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+01:59:25 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+01:59:25 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+01:59:25 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+01:59:25 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+01:59:25 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+01:59:25 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+02:10:10 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+02:10:10 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+02:10:11 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+02:10:11 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+02:10:11 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+02:10:11 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+02:10:11 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+02:10:11 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+02:29:14 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+02:29:14 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+02:29:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+02:29:15 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+02:29:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+02:29:15 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+02:29:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+02:29:15 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:06:15 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:06:15 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:06:16 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:06:16 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:06:16 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:06:16 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:06:16 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:06:16 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:06:42 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:06:42 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:06:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:06:43 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:06:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:06:43 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:06:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:06:43 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:07:55 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:07:55 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:07:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:07:56 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:07:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:07:56 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:07:56 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:07:56 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:08:34 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:08:34 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:08:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:08:35 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:08:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:08:35 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:08:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:08:35 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:10:02 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:10:02 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:10:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:10:03 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:10:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:10:03 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:10:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:10:03 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:10:31 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:10:31 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:10:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:10:32 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:10:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:10:32 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:10:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:10:32 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:10:51 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:10:51 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:10:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:10:52 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:10:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:10:52 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:10:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:10:52 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:11:11 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:11:11 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:11:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:11:12 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:11:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:11:12 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:11:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:11:12 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:12:16 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:12:16 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:12:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:12:17 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:12:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:12:17 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:12:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:12:17 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:12:36 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:12:36 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:12:37 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:12:37 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:12:37 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:12:37 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:12:37 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:12:37 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:14:22 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:14:22 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:14:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:14:24 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:14:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:14:24 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:14:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:14:24 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:16:27 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:16:27 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:16:28 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:16:28 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:16:28 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:16:28 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:16:28 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:16:28 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:28:35 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:28:35 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:28:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:28:36 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:28:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:28:36 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:28:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:28:36 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:36:05 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:36:05 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:36:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:36:06 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:36:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:36:06 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:36:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:36:06 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+03:42:14 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+03:42:14 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+03:42:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+03:42:15 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+03:42:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+03:42:15 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+03:42:15 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+03:42:15 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+04:36:31 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+04:36:31 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+04:36:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+04:36:32 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+04:36:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+04:36:32 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+04:36:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+04:36:32 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:08:23 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:08:23 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:08:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:08:24 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:08:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:08:24 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:08:25 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:08:25 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:12:23 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:12:23 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:12:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:12:24 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:12:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:12:24 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:12:24 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:12:24 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:15:32 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:15:32 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:15:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:15:33 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:15:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:15:33 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:15:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:15:33 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:31:02 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:31:02 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:31:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:31:03 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:31:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:31:03 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:31:03 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:31:03 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:40:51 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:40:51 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:40:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:40:52 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:40:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:40:52 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:40:52 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:40:52 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+05:44:44 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+05:44:44 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+05:44:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+05:44:45 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+05:44:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+05:44:45 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+05:44:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+05:44:45 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:24:45 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:24:45 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:24:46 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:24:46 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:24:46 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:24:46 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:24:46 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:24:46 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:25:05 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:25:05 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:25:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:25:06 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:25:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:25:06 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:25:06 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:25:06 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:27:04 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:27:04 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:27:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:27:05 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:27:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:27:05 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:27:05 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:27:05 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:57:19 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:57:19 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:57:21 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:57:21 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:57:21 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:57:21 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:57:21 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:57:21 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:58:10 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:58:10 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:58:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:58:12 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:58:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:58:12 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:58:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:58:12 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+06:58:41 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+06:58:41 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+06:58:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+06:58:43 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+06:58:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+06:58:43 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+06:58:43 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+06:58:43 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+07:00:02 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-28)
+07:00:02 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-28 00:00:00+00:00 UTC
+07:00:04 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-28)
+07:00:04 | INFO     | BiasService               | [BiasService] Asia (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.86, conf=0.97) | Bayes posterior=0.97 from 104 BOS
+07:00:04 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-28)
+07:00:04 | INFO     | BiasService               | [BiasService] London (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=2.01, conf=0.98) | Bayes posterior=0.97 from 96 BOS
+07:00:04 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-28)
+07:00:04 | INFO     | BiasService               | [BiasService] NewYork (2025-10-28 00:00:00+00:00) → Z-Test: bullish (z=1.96, conf=0.97) | Bayes posterior=0.97 from 86 BOS
+07:26:58 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+07:26:58 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+07:27:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+07:27:00 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+07:27:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+07:27:00 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+07:27:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+07:27:00 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 100 BOS
+08:21:17 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:21:17 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:21:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:21:19 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:21:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:21:19 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:21:19 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:21:19 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:23:41 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:23:41 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:23:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:23:42 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:23:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:23:42 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:23:42 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:23:42 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:24:11 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:24:11 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:24:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:24:12 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:24:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:24:12 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:24:12 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:24:12 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:25:19 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:25:19 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:25:20 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:25:20 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:25:20 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:25:20 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:25:20 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:25:20 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:26:37 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:26:37 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:26:38 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:26:38 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:26:38 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:26:38 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:26:38 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:26:38 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:27:59 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:27:59 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:28:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:28:00 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:28:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:28:00 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:28:00 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:28:00 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+08:28:54 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+08:28:54 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+08:28:55 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+08:28:55 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+08:28:55 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+08:28:55 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+08:28:55 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+08:28:55 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+09:06:17 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+09:06:17 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+09:06:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+09:06:18 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+09:06:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+09:06:18 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+09:06:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+09:06:18 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:00:16 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:00:16 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:00:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:00:17 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:00:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:00:17 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:00:17 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:00:17 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:08:06 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:08:06 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:08:07 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:08:07 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:08:07 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:08:07 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:08:07 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:08:07 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:08:26 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:08:26 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:08:27 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:08:27 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:08:27 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:08:27 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:08:27 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:08:27 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:17:28 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:17:28 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:17:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:17:29 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:17:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:17:29 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:17:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:17:29 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:19:50 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:19:50 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:19:51 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:19:51 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:19:51 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:19:51 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:19:51 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:19:51 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:23:31 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:23:31 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:23:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:23:33 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:23:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:23:33 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:23:33 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:23:33 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:29:09 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:29:09 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:29:10 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:29:10 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:29:10 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:29:10 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:29:10 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:29:10 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:33:28 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:33:28 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:33:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:33:29 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:33:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:33:29 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:33:29 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:33:29 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+11:38:30 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+11:38:30 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+11:38:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+11:38:32 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+11:38:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+11:38:32 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+11:38:32 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+11:38:32 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS
+21:41:00 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-29)
+21:41:00 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-29 00:00:00+00:00 UTC
+21:41:02 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-29)
+21:41:02 | INFO     | BiasService               | [BiasService] Asia (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.64, conf=0.95) | Bayes posterior=0.94 from 127 BOS
+21:41:02 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-29)
+21:41:02 | INFO     | BiasService               | [BiasService] London (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.93, conf=0.97) | Bayes posterior=0.97 from 115 BOS
+21:41:02 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-29)
+21:41:02 | INFO     | BiasService               | [BiasService] NewYork (2025-10-29 00:00:00+00:00) → Z-Test: bullish (z=1.87, conf=0.97) | Bayes posterior=0.96 from 101 BOS

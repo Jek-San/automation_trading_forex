@@ -1,0 +1,16 @@
+08:23:33 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-21)
+08:23:33 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-21 00:00:00+00:00 UTC
+08:23:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-21)
+08:23:36 | INFO     | BiasService               | [BiasService] Asia (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=2.61, conf=1.00) | Bayes posterior=1.00 from 88 BOS
+08:23:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-21)
+08:23:36 | INFO     | BiasService               | [BiasService] London (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=3.05, conf=1.00) | Bayes posterior=1.00 from 82 BOS
+08:23:36 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-21)
+08:23:36 | INFO     | BiasService               | [BiasService] NewYork (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=3.09, conf=1.00) | Bayes posterior=1.00 from 57 BOS
+08:37:44 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-21)
+08:37:44 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-21 00:00:00+00:00 UTC
+08:37:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-21)
+08:37:45 | INFO     | BiasService               | [BiasService] Asia (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=2.61, conf=1.00) | Bayes posterior=1.00 from 88 BOS
+08:37:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-21)
+08:37:45 | INFO     | BiasService               | [BiasService] London (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=3.05, conf=1.00) | Bayes posterior=1.00 from 83 BOS
+08:37:45 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-21)
+08:37:45 | INFO     | BiasService               | [BiasService] NewYork (2025-10-21 00:00:00+00:00) → Z-Test: bullish (z=3.09, conf=1.00) | Bayes posterior=1.00 from 71 BOS

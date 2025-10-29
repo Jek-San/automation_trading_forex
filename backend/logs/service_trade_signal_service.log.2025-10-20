@@ -1,0 +1,32 @@
+10:07:17 | ERROR    | service.trade_signal_service | ❌ Error during run_once: No module named 'src.core.risk'
+10:07:22 | ERROR    | service.trade_signal_service | ❌ Error during run_once: No module named 'src.core.risk'
+10:07:27 | ERROR    | service.trade_signal_service | ❌ Error during run_once: No module named 'src.core.risk'
+10:07:32 | ERROR    | service.trade_signal_service | ❌ Error during run_once: No module named 'src.core.risk'
+10:08:44 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+10:08:44 | INFO     | service.trade_signal_service | 📡 Found 7 pending signals.
+10:31:14 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+10:31:14 | INFO     | service.trade_signal_service | 📡 Found 3 pending signals.
+11:31:59 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+11:31:59 | INFO     | service.trade_signal_service | 📡 Found 4 pending signals.
+12:17:14 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+12:17:14 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+13:15:40 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+13:15:40 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+13:32:25 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+13:32:25 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+13:39:30 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+13:39:30 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+14:47:03 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+14:47:03 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+15:17:39 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+15:17:39 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+15:47:24 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+15:47:24 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+16:42:34 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+16:42:34 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+17:15:50 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+17:15:50 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+17:46:03 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Cancell all new signals.
+17:46:03 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+20:48:36 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+20:48:36 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.

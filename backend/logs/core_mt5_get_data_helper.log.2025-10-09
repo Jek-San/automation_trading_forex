@@ -1,0 +1,7 @@
+05:25:52 | ERROR    | core.mt5.get_data_helper  | ❌ Failed to select symbol XAUUSD
+05:26:33 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+05:26:33 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+08:26:21 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+08:26:21 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+08:27:53 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+08:27:53 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.

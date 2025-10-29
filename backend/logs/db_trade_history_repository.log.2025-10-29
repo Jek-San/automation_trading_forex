@@ -1,0 +1,1731 @@
+00:00:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:00:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:00:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:01:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:01:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:01:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:02:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:02:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:02:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:03:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:03:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:03:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:04:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:04:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:04:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:06:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:06:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:06:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:07:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:07:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:07:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:08:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:08:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:08:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:09:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:09:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:09:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:10:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:10:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:10:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:12:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:12:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:12:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:13:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:13:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:13:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:13:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:13:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:13:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:15:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:15:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:15:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:17:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:17:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:17:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:18:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875010
+00:18:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875059
+00:18:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1561875112
+00:19:24 | INFO     | db.trade_history_repository | ✅ Trade 1561875010 updated successfully.
+00:19:24 | INFO     | db.trade_history_repository | ✅ Trade 1561875059 updated successfully.
+00:19:24 | INFO     | db.trade_history_repository | ✅ Trade 1561875112 updated successfully.
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:09:38 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:10:57 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:12:15 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:13:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:14:51 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:16:09 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:17:27 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:18:45 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:20:03 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:21:21 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:39 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:22:40 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:23:58 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:25:16 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+07:26:33 | WARNING  | db.trade_history_repository | No MT5 deals found for period. Err: (-10001, 'IPC send failed')
+08:19:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:19:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:19:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:21:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:21:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:21:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:22:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:22:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:22:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:24:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:24:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:24:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:25:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:25:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:25:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:26:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:26:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:26:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:28:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:28:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:28:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:29:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:29:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:29:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:30:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:30:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:30:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:31:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:31:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:31:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:32:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:32:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:32:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:33:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:33:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:33:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:35:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:35:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:35:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:36:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:36:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:36:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:37:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:37:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:37:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:39:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:39:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:39:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:40:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:40:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:40:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:41:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:41:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:41:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:42:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:42:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:42:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:44:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:44:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:44:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:45:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:45:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:45:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:46:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:46:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:46:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:47:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:47:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:47:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:49:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:49:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:49:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:50:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:50:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:50:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:51:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:51:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:51:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:52:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:52:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:52:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:54:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:54:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:54:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:55:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:55:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:55:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:56:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:56:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:56:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:58:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:58:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:58:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+08:59:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+08:59:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+08:59:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:00:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:00:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:00:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:01:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:01:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:01:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:02:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:02:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:02:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:04:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:04:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:04:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:05:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:05:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:05:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:06:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:06:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:06:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:07:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:07:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:07:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:08:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:08:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:08:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:09:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:09:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:09:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:11:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:11:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:11:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:12:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:12:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:12:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:13:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:13:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:13:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:14:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:14:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:14:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:15:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:15:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:15:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:16:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:16:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:16:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:18:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:18:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:18:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:19:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:19:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:19:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:20:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:20:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:20:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:21:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:21:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:21:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:22:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:22:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:22:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:23:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:23:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:23:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:24:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:24:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:24:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:26:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:26:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:26:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:27:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:27:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:27:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:28:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:28:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:28:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:29:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:29:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:29:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:30:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:30:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:30:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:31:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935452
+09:31:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935454
+09:31:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1563935458
+09:33:06 | INFO     | db.trade_history_repository | ✅ Trade 1563935452 updated successfully.
+09:33:06 | INFO     | db.trade_history_repository | ✅ Trade 1563935454 updated successfully.
+09:33:06 | INFO     | db.trade_history_repository | ✅ Trade 1563935458 updated successfully.
+09:47:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:47:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:47:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:48:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:48:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:48:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:49:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:49:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:49:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:50:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:50:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:50:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:51:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:51:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:51:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:53:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:53:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:53:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:55:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:55:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:55:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:56:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:56:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:56:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:57:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:57:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:57:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:58:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:58:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:58:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+09:59:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+09:59:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+09:59:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+10:01:01 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595284
+10:01:01 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595324
+10:01:01 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564595353
+10:02:10 | INFO     | db.trade_history_repository | ✅ Trade 1564595284 updated successfully.
+10:02:10 | INFO     | db.trade_history_repository | ✅ Trade 1564595324 updated successfully.
+10:02:10 | INFO     | db.trade_history_repository | ✅ Trade 1564595353 updated successfully.
+11:00:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:00:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:01:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:01:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:02:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:02:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:03:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:03:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:05:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:05:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:06:22 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:06:22 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:07:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:07:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:08:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:08:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:08:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:08:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:09:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:09:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:11:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:11:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:12:22 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:12:22 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:13:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:13:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935721
+11:13:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564935726
+11:14:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:14:46 | INFO     | db.trade_history_repository | ✅ Trade 1564935721 updated successfully.
+11:14:46 | INFO     | db.trade_history_repository | ✅ Trade 1564935726 updated successfully.
+11:15:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:17:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:18:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:19:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:23:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:24:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:29:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:30:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:31:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:33:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:34:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:35:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:38:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:40:01 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:41:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:42:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:43:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:44:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:46:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:47:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:48:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:49:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:51:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:52:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:53:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:54:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:55:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:57:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:58:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+11:59:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:00:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:01:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:02:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:04:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:05:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:06:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:07:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:08:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:10:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:11:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:12:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:13:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:14:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:16:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:17:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:17:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:17:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:18:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:18:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:18:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:19:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:19:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:19:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:20:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:21:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:21:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:21:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:23:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:23:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:23:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:24:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:24:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:24:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:25:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:25:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:25:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:26:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:26:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:26:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:27:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:27:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:27:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:28:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:28:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:28:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:29:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:29:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:29:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:31:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:31:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:31:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:32:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:32:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:32:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:33:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:33:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:33:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:34:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:34:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:34:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:35:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:35:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:35:44 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:36:53 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:36:53 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:36:53 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:38:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:38:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:38:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:39:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:39:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:39:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:40:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:40:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:40:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:41:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:41:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:41:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:42:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:42:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:42:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:43:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:43:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:43:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:44:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:44:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:44:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:46:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:46:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:46:06 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:47:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:47:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:47:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:48:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:48:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:48:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:49:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:49:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:49:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:50:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:50:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:50:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:53:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:53:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:53:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:54:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:54:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:54:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+12:55:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+12:55:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+12:55:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:13:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:13:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:13:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:14:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:14:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:14:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:15:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:15:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:15:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:16:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:16:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:16:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:18:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:18:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:18:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:19:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:19:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:19:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:20:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:20:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:20:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:21:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:21:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:21:39 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:22:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:22:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:22:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:24:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1564793043
+13:24:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650443
+13:24:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1565650539
+13:25:20 | INFO     | db.trade_history_repository | ✅ Trade 1564793043 updated successfully.
+13:25:20 | INFO     | db.trade_history_repository | ✅ Trade 1565650443 updated successfully.
+13:25:20 | INFO     | db.trade_history_repository | ✅ Trade 1565650539 updated successfully.
+13:44:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:46:08 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:47:23 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:48:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:49:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:51:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:52:27 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:53:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:54:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:56:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:57:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:58:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+13:59:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:01:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:02:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:03:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:05:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:06:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:07:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:08:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:10:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566246037
+14:11:20 | INFO     | db.trade_history_repository | ✅ Trade 1566246037 updated successfully.
+14:26:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:27:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:29:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:30:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:31:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:31:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:33:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:33:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:34:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:34:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:35:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:35:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:38:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:38:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:39:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:39:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:40:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:40:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:42:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:42:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:44:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:44:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:46:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:46:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:47:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:47:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:48:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:48:45 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:49:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:49:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:49:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:49:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:51:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:51:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:51:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:51:13 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:52:27 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:52:27 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:52:27 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:52:27 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:53:40 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:53:40 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:53:40 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:53:40 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:54:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:54:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:54:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:54:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:56:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:56:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:56:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:56:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:57:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:57:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:57:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:57:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:58:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:58:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:58:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:58:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+14:59:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+14:59:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566660698
+14:59:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821734
+14:59:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566821737
+15:01:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+15:01:04 | INFO     | db.trade_history_repository | ✅ Trade 1566660698 updated successfully.
+15:01:04 | INFO     | db.trade_history_repository | ✅ Trade 1566821734 updated successfully.
+15:01:04 | INFO     | db.trade_history_repository | ✅ Trade 1566821737 updated successfully.
+15:02:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+15:03:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+15:04:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1566653863
+15:06:00 | INFO     | db.trade_history_repository | ✅ Trade 1566653863 updated successfully.
+15:39:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:40:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:42:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:43:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:44:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:45:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:47:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:48:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:49:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:50:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:52:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:53:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:54:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:55:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:56:58 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567262803
+15:58:11 | INFO     | db.trade_history_repository | ✅ Trade 1567262803 updated successfully.
+16:38:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:38:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:38:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:39:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:39:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:39:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:40:37 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:40:37 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:40:37 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:41:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:41:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:41:48 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:42:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:42:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:42:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:44:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:44:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:44:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:45:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:45:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:45:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:46:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:46:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:46:31 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712450
+16:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712466
+16:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1567712478
+16:48:52 | INFO     | db.trade_history_repository | ✅ Trade 1567712450 updated successfully.
+16:48:52 | INFO     | db.trade_history_repository | ✅ Trade 1567712466 updated successfully.
+16:48:52 | INFO     | db.trade_history_repository | ✅ Trade 1567712478 updated successfully.
+19:50:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:50:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:51:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:51:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:52:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:52:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:54:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:54:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:55:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:55:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:56:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:56:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:57:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:57:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:58:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:58:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+19:59:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+19:59:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:00:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:00:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:01:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:01:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:03:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:03:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:04:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:04:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:05:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:05:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:06:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:06:26 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:07:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:07:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:08:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:08:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:09:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:09:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:10:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:10:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:12:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167512
+20:12:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1569167515
+20:13:12 | INFO     | db.trade_history_repository | ✅ Trade 1569167512 updated successfully.
+20:13:12 | INFO     | db.trade_history_repository | ✅ Trade 1569167515 updated successfully.
+21:17:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:17:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:18:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:18:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:19:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:19:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:20:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:20:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:22:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:22:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:23:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:23:17 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:24:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:24:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:25:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:25:36 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:26:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:26:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:27:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:27:54 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:29:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:29:03 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:30:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:30:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:31:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:31:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:32:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:32:32 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:33:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:33:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:34:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:34:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:36:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:36:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:37:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:37:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:38:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:38:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:39:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:39:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:40:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:40:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:41:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:41:10 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:42:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:42:20 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:43:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138387
+21:43:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570138459
+21:44:39 | INFO     | db.trade_history_repository | ✅ Trade 1570138387 updated successfully.
+21:44:39 | INFO     | db.trade_history_repository | ✅ Trade 1570138459 updated successfully.
+21:56:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+21:57:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+21:58:51 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+21:59:57 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:01:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:02:07 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:03:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:04:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:05:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:06:35 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:07:41 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:08:47 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:09:53 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:10:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:12:05 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:13:11 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:14:18 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:15:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:16:30 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:17:37 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:18:43 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:19:49 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:20:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:22:02 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:23:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:24:15 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:25:22 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:26:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1570437737
+22:27:39 | INFO     | db.trade_history_repository | ✅ Trade 1570437737 updated successfully.
+23:34:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:34:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:34:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:34:52 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:35:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:35:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:35:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:35:56 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:37:00 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:38:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:38:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:38:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:38:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:39:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:39:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:39:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:39:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:40:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:40:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:40:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:40:12 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:41:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:41:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:41:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:41:16 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:42:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:42:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:42:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:42:21 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:43:25 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:44:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:44:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:44:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:44:29 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:45:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:45:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:45:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:45:34 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:46:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:46:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:46:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:46:38 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:47:42 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:48:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:48:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:48:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:48:46 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:49:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:49:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:49:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:49:50 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:50:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:50:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:50:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:50:55 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:51:59 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:53:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:53:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:53:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:53:04 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:54:09 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:55:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:55:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:55:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:55:14 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:56:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:56:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:56:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:56:19 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:57:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:57:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:57:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:57:24 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:58:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:58:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:58:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:58:28 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933
+23:59:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277719
+23:59:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277818
+23:59:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277870
+23:59:33 | INFO     | db.trade_history_repository | Not enough deals to store for position 1571277933

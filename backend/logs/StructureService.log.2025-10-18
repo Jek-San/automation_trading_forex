@@ -1,0 +1,4 @@
+10:12:21 | INFO     | StructureService          | [Loose Mode] Found 134 BOS events
+10:12:22 | INFO     | StructureService          | Inserted new BOS (deduped) into DB
+10:13:34 | INFO     | StructureService          | [Loose Mode] Found 139 BOS events
+10:13:35 | INFO     | StructureService          | Inserted new BOS (deduped) into DB

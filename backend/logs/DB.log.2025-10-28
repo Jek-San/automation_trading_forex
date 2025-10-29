@@ -1,0 +1,2 @@
+10:47:30 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'last_swing_time' in 'field list'
+10:47:39 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'last_swing_time' in 'field list'

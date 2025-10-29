@@ -1,0 +1,178 @@
+18:05:06 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:05:07 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:06:16 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:06:18 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:07:26 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:07:28 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:08:36 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:08:38 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:09:46 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:09:48 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:10:56 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at M15 UTC
+18:10:58 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 73, in _run_z_test
+    start_time = bos_time_utc - timedelta(days=90)
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+18:48:50 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:48:50 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:48:51 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'float' and 'decimal.Decimal'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 110, in _run_z_test
+    std = session_df["return"].std()
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\series.py", line 6613, in std
+    return NDFrame.std(self, axis, skipna, ddof, numeric_only, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\generic.py", line 12423, in std
+    return self._stat_function_ddof(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\generic.py", line 12387, in _stat_function_ddof
+    return self._reduce(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\series.py", line 6478, in _reduce
+    return op(delegate, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 147, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 950, in nanstd
+    result = np.sqrt(nanvar(values, axis=axis, skipna=skipna, ddof=ddof, mask=mask))
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 85, in _f
+    return f(*args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 147, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 1016, in nanvar
+    sqr = _ensure_numeric((avg - values) ** 2)
+TypeError: unsupported operand type(s) for -: 'float' and 'decimal.Decimal'
+18:49:53 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:49:53 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:49:54 | ERROR    | BiasService               | Error in BiasService.run_step: unsupported operand type(s) for -: 'float' and 'decimal.Decimal'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 47, in run_step
+    z_result = self._run_z_test(candles, bos_time_utc, hours)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 111, in _run_z_test
+    std = session_df["return"].std()
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\series.py", line 6613, in std
+    return NDFrame.std(self, axis, skipna, ddof, numeric_only, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\generic.py", line 12423, in std
+    return self._stat_function_ddof(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\generic.py", line 12387, in _stat_function_ddof
+    return self._reduce(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\series.py", line 6478, in _reduce
+    return op(delegate, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 147, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 950, in nanstd
+    result = np.sqrt(nanvar(values, axis=axis, skipna=skipna, ddof=ddof, mask=mask))
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 85, in _f
+    return f(*args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 147, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\pandas\core\nanops.py", line 1016, in nanvar
+    sqr = _ensure_numeric((avg - values) ** 2)
+TypeError: unsupported operand type(s) for -: 'float' and 'decimal.Decimal'
+18:53:33 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:53:33 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:53:34 | ERROR    | BiasService               | Error in BiasService.run_step: 1054 (42S22): Unknown column 'reference_time' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'reference_time' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 60, in run_step
+    self._save_bias_to_db(final_bias)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 177, in _save_bias_to_db
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'reference_time' in 'field list'
+18:57:25 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:57:25 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:57:26 | ERROR    | BiasService               | Error in BiasService.run_step: Python type numpy.int64 cannot be converted
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 67, in run_step
+    self._save_bias_to_db(final_bias)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 183, in _save_bias_to_db
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 328, in execute
+    prepared = self._connection.prepare_for_mysql(params)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 943, in prepare_for_mysql
+    result = self._cmysql.convert_to_mysql(*params)
+_mysql_connector.MySQLInterfaceError: Python type numpy.int64 cannot be converted
+18:58:30 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:58:30 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:58:31 | ERROR    | BiasService               | Error in BiasService.run_step: '_GeneratorContextManager' object has no attribute 'cursor'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 67, in run_step
+    self._save_bias_to_db(final_bias)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\bias_service.py", line 179, in _save_bias_to_db
+    cursor = conn.cursor()
+AttributeError: '_GeneratorContextManager' object has no attribute 'cursor'
+18:59:48 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+18:59:48 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+18:59:49 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-20)
+18:59:49 | INFO     | BiasService               | [BiasService] Asia (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=3.16, conf=1.00) | Bayes posterior=1.00 from 71 BOS
+18:59:49 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-20)
+18:59:49 | INFO     | BiasService               | [BiasService] London (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.82, conf=1.00) | Bayes posterior=1.00 from 67 BOS
+18:59:49 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-20)
+18:59:49 | INFO     | BiasService               | [BiasService] NewYork (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.71, conf=1.00) | Bayes posterior=1.00 from 57 BOS
+19:07:34 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+19:07:34 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+19:07:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-20)
+19:07:35 | INFO     | BiasService               | [BiasService] Asia (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=3.16, conf=1.00) | Bayes posterior=1.00 from 71 BOS
+19:07:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-20)
+19:07:35 | INFO     | BiasService               | [BiasService] London (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.82, conf=1.00) | Bayes posterior=1.00 from 67 BOS
+19:07:35 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-20)
+19:07:35 | INFO     | BiasService               | [BiasService] NewYork (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.71, conf=1.00) | Bayes posterior=1.00 from 57 BOS
+19:28:47 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+19:28:47 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+19:28:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-20)
+19:28:48 | INFO     | BiasService               | [BiasService] Asia (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=3.16, conf=1.00) | Bayes posterior=1.00 from 71 BOS
+19:28:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-20)
+19:28:48 | INFO     | BiasService               | [BiasService] London (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.82, conf=1.00) | Bayes posterior=1.00 from 67 BOS
+19:28:48 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-20)
+19:28:48 | INFO     | BiasService               | [BiasService] NewYork (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.71, conf=1.00) | Bayes posterior=1.00 from 57 BOS
+19:32:16 | INFO     | BiasService               | Running daily market bias update for XAUUSDc (2025-10-20)
+19:32:16 | INFO     | BiasService               | [BiasService] Running bias check for XAUUSDc at 2025-10-20 00:00:00+00:00 UTC
+19:32:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc Asia (2025-10-20)
+19:32:18 | INFO     | BiasService               | [BiasService] Asia (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=3.16, conf=1.00) | Bayes posterior=1.00 from 71 BOS
+19:32:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc London (2025-10-20)
+19:32:18 | INFO     | BiasService               | [BiasService] London (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.82, conf=1.00) | Bayes posterior=1.00 from 67 BOS
+19:32:18 | INFO     | BiasService               | ✅ Saved bias for XAUUSDc NewYork (2025-10-20)
+19:32:18 | INFO     | BiasService               | [BiasService] NewYork (2025-10-20 00:00:00+00:00) → Z-Test: bullish (z=2.71, conf=1.00) | Bayes posterior=1.00 from 57 BOS

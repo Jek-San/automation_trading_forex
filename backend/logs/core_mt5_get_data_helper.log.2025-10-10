@@ -1,0 +1,16 @@
+03:19:05 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:19:05 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:19:18 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:19:18 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:20:58 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:20:58 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:21:15 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:21:15 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:21:29 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:21:29 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:21:48 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:21:48 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:22:18 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:22:18 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.
+03:22:34 | INFO     | core.mt5.get_data_helper  | 📈 Fetching last 5000 M15 bars for XAUUSDc
+03:22:34 | INFO     | core.mt5.get_data_helper  | ✅ Retrieved 5000 rows for XAUUSDc M15.

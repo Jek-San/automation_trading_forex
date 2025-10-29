@@ -1,0 +1,10 @@
+09:45:55 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'trade_signal_id' in 'field list'
+10:07:24 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.trade_signals' doesn't exist
+10:07:27 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.trade_signals' doesn't exist
+10:08:24 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.trade_signals' doesn't exist
+10:46:03 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.trade_signals' doesn't exist
+10:49:46 | ERROR    | DB                        | Database connection error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE t.trade_signal_id IS NOT NULL' at line 26
+15:57:07 | ERROR    | DB                        | Database connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: not initialized
+15:57:07 | ERROR    | DB                        | Database connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: not initialized
+15:57:07 | ERROR    | DB                        | Database connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: not initialized
+15:57:07 | ERROR    | DB                        | Database connection error: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: not initialized

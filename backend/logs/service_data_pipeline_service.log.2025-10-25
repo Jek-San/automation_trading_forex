@@ -1,0 +1,10 @@
+05:31:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 05:31:22
+05:31:22 | INFO     | service.data_pipeline_service | 📊 M30 update started at 05:31:22
+05:31:22 | INFO     | service.data_pipeline_service | 📊 H4 update started at 05:31:22
+05:31:22 | INFO     | service.data_pipeline_service | 📊 H1 update started at 05:31:22
+05:31:22 | INFO     | service.data_pipeline_service | 📊 D1 update started at 05:31:22
+05:31:22 | INFO     | service.data_pipeline_service | ✅ M30 update completed in 0.23s
+05:31:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.31s
+05:31:22 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 0.12s
+05:31:23 | INFO     | service.data_pipeline_service | ✅ H4 update completed in 0.25s
+05:31:23 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.33s

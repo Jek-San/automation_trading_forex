@@ -1,0 +1,1662 @@
+10:05:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 120 | 1/15 candles checked
+10:05:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 121 | 1/15 candles checked
+10:06:11 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4234.234 - 4242.597 | at 2025-10-19 23:15:00
+10:06:12 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4234.234 - 4242.597 | at 2025-10-19 23:15:00
+10:06:13 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4248.268 - 4252.142 | at 2025-10-19 22:30:00
+10:06:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4248.268 - 4252.142 | at 2025-10-19 22:30:00
+10:06:15 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4252.702 - 4254.891 | at 2025-10-19 22:30:00
+10:06:16 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4249.502 - 4253.637 | at 2025-10-20 00:45:00
+10:06:17 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4249.502 - 4253.637 | at 2025-10-20 00:45:00
+10:06:18 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4242.612 - 4243.382 | at 2025-10-20 00:30:00
+10:06:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4235.925 - 4239.425 | at 2025-10-20 01:00:00
+10:06:20 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4235.925 - 4239.425 | at 2025-10-20 01:00:00
+10:06:22 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4255.718 - 4255.925 | at 2025-10-20 02:45:00
+10:06:25 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4255.718 - 4255.925 | at 2025-10-20 02:45:00
+10:07:16 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:08:44 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:10:01 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:11:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:12:35 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:13:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:15:08 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:16:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:17:41 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:17:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:17:57 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:17:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:18:49 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:18:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:18:51 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:20:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:20:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:20:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:21:28 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:21:30 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:21:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:22:45 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:22:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:22:48 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:24:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:24:03 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:24:04 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:19 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:49 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:25:51 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:26:06 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:26:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:26:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:27:23 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:27:24 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:27:26 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:28:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:28:40 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:28:42 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:29:54 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:29:55 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:29:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:30:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:30:06 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:30:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 03:00:00
+10:31:06 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4259.645 - 4260.874 | at 2025-10-20 03:15:00
+10:31:07 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4259.645 - 4260.874 | at 2025-10-20 03:15:00
+10:31:09 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4259.645 - 4260.874 | at 2025-10-20 03:15:00
+10:32:26 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:33:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:34:49 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:36:01 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:37:12 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:38:24 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:39:35 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:40:55 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:42:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:43:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:44:30 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:45:41 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:46:52 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:48:04 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:49:15 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:50:27 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:51:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:52:50 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:54:02 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:55:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:56:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:57:36 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:58:48 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+10:59:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:01:11 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:02:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:03:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:04:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:06:05 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:07:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:08:31 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:09:45 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:10:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:12:11 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:13:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:14:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:15:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:17:06 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:17:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:17:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:17:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:18:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:18:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:18:26 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:18:28 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:19:36 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:19:38 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:19:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:19:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:20:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:20:52 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:20:53 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:20:55 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:22:03 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:22:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:22:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:22:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:23:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:23:18 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:23:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:23:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:24:30 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:24:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:24:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:24:35 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:25:43 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:25:45 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:25:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:25:48 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:26:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:26:58 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:27:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:27:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:28:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:28:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:28:12 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:28:14 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:29:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:29:24 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:29:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:29:27 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:30:35 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:30:36 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:30:38 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:30:40 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:00:00
+11:31:48 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4257.125 - 4260.389 | at 2025-10-20 04:15:00
+11:31:49 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4257.125 - 4260.389 | at 2025-10-20 04:15:00
+11:31:51 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4257.125 - 4260.389 | at 2025-10-20 04:15:00
+11:31:53 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4257.125 - 4260.389 | at 2025-10-20 04:15:00
+11:33:06 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:34:12 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:35:19 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:36:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:37:32 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:38:39 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:39:45 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:40:52 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:41:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:43:05 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:44:12 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:45:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:46:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:47:34 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:48:42 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:49:50 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:50:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:52:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:53:16 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:54:24 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:55:33 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:56:41 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:57:49 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+11:58:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:00:06 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:01:14 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:02:24 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:03:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:04:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:05:49 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:06:57 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:08:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:09:13 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:10:21 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:11:29 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:12:38 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:13:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:14:54 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:16:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 04:45:00
+12:17:13 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4264.873 - 4264.923 | at 2025-10-20 05:00:00
+12:18:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:19:32 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:19:41 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:20:50 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:21:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:23:06 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:24:14 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:25:22 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:26:30 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:27:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:28:46 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:29:55 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:31:03 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:32:14 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:33:23 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:34:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:35:42 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:36:52 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:38:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:39:12 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:40:21 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:41:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:42:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:43:51 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:45:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:46:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 05:15:00
+12:47:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:48:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:49:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:50:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:51:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:53:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:54:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:55:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:56:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:57:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+12:58:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+13:00:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+13:01:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 1/15 candles checked
+13:02:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:03:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:04:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:06:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:07:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:08:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:09:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:10:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:12:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:13:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:14:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:15:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:16:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 2/15 candles checked
+13:17:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:18:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:18:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:19:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:19:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:19:13 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:20:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:20:23 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:20:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:21:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:21:35 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:21:37 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:22:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:22:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:22:48 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:23:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:23:58 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:23:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:25:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:25:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:25:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:26:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:26:21 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:26:23 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:27:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:27:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:27:34 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:28:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:28:44 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:28:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:29:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:29:55 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:29:57 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:31:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 3/15 candles checked
+13:31:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:31:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 06:00:00
+13:32:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:32:20 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4244.961 - 4250.117 | at 2025-10-20 06:15:00
+13:32:22 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4244.961 - 4250.117 | at 2025-10-20 06:15:00
+13:33:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:34:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:35:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:37:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:38:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:39:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:40:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:41:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:42:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:44:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:45:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:46:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 4/15 candles checked
+13:47:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:48:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:49:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:51:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:52:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:53:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:54:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:55:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:56:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:58:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+13:59:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+14:00:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+14:01:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 5/15 candles checked
+14:02:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:03:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:05:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:06:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:07:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:08:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:09:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:10:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:12:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:13:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:14:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:15:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:16:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 6/15 candles checked
+14:17:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:19:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:20:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:21:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:22:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:23:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:24:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:25:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:26:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:28:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:29:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:30:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:31:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 7/15 candles checked
+14:32:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:32:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:33:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:33:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:34:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:34:45 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:35:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:35:52 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:36:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:36:58 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:38:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:38:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:39:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:39:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:40:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:40:19 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:41:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:41:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:42:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:42:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:43:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:43:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:44:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:44:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:45:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 8/15 candles checked
+14:45:54 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 07:15:00
+14:47:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:47:01 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4237.697 - 4253.632 | at 2025-10-20 07:30:00
+14:48:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:49:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:50:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:51:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:52:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:53:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:54:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:55:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:57:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:58:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+14:59:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+15:00:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+15:01:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 9/15 candles checked
+15:02:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:03:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:04:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:05:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:06:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:08:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:09:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:10:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:11:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:12:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:13:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:14:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:15:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 10/15 candles checked
+15:16:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:18:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:19:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:20:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:21:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:22:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:23:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:24:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:25:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:27:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:28:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:29:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:30:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:31:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 11/15 candles checked
+15:32:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:33:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:34:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:36:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:37:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:38:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:39:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:40:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:41:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:42:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:43:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:45:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:46:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 140 | 12/15 candles checked
+15:47:23 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4263.372 - 4264.923 | at 2025-10-20 08:30:00
+15:48:30 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:49:37 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:50:43 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:51:49 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:52:56 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:54:03 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:55:09 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:56:15 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:57:22 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:58:29 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+15:59:15 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:00:22 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:01:28 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:02:34 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:03:40 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:04:47 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:05:54 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:07:00 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:08:06 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:09:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:10:19 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:11:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:12:31 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:13:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:14:44 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:15:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:16:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:18:04 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:19:16 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:20:24 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:21:31 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:22:37 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:23:43 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:24:49 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:25:56 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:27:02 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:28:08 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:29:14 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:30:21 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:31:27 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:32:33 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:33:39 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:34:45 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:35:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:36:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:38:04 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:39:10 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:40:17 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:41:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:42:29 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:43:36 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:44:42 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:45:49 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:46:55 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:48:26 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:49:37 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:50:47 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:51:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:53:08 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:54:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:55:28 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:56:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:57:48 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+16:58:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:00:09 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:01:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:01:24 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:02:34 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:02:35 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:03:45 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:03:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:04:57 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:04:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:06:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:06:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:07:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:07:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:08:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:08:34 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:09:44 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:09:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:10:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:10:58 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:12:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:12:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:13:19 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:13:21 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:14:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:14:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 09:45:00
+17:15:45 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4255.478 - 4257.38 | at 2025-10-20 10:00:00
+17:15:46 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4255.478 - 4257.38 | at 2025-10-20 10:00:00
+17:16:58 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:18:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:19:17 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:20:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:21:34 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:22:42 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:23:50 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:24:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:26:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:27:16 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:28:24 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:29:33 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:30:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:30:54 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:31:17 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:32:25 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:33:34 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:34:42 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:35:50 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:36:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:38:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:39:15 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:40:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:40:32 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:41:14 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:42:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:43:31 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:43:37 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:44:45 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:44:55 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:45:07 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:46:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:46:36 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:47:44 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:48:52 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:50:00 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:50:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:51:18 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:52:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:53:27 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:54:32 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:55:36 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:56:41 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:57:46 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:58:51 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+17:59:55 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:01:00 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:02:04 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:03:09 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:03:54 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:04:59 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:05:06 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:06:16 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:07:26 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:08:36 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:09:46 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:10:56 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+18:49:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:49:03 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:49:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:50:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:51:06 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:51:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:52:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:52:19 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:53:28 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:53:29 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:53:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:53:40 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:54:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:54:52 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:56:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:56:03 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:57:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:57:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:57:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:57:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:58:36 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:58:37 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:59:43 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:59:44 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:59:54 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+18:59:55 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+19:01:06 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+19:01:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+19:02:18 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+19:02:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 11:30:00
+19:03:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:03:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:04:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:04:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:05:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:05:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:07:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:07:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:07:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:07:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:08:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:08:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:10:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:10:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:11:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:11:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:12:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:12:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:13:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:13:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:15:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:15:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:16:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 1/15 candles checked
+19:16:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 1/15 candles checked
+19:17:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:17:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:17:35 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:18:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:18:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:18:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:19:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:20:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:20:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:21:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:21:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:21:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:22:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:22:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:22:27 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:23:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:23:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:23:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:24:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:24:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:24:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:26:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:26:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:26:12 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:27:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:27:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:27:27 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:28:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:28:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:28:42 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:28:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:28:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:29:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:30:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:30:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:30:15 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:31:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 2/15 candles checked
+19:31:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 2/15 candles checked
+19:31:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:00:00
+19:32:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:32:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:32:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:33:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:33:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:33:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:34:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:34:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:34:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:35:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:36:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:36:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:37:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:37:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:37:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:38:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:38:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:38:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:39:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:39:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:39:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:40:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:40:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:40:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:41:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:41:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:41:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:43:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:43:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:43:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:44:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:44:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:44:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:45:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:45:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:45:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:46:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 3/15 candles checked
+19:46:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 3/15 candles checked
+19:46:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 1/15 candles checked
+19:47:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:47:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:47:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:47:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:47:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:48:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:48:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:48:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:48:58 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:48:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:50:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:50:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:50:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:50:10 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:50:11 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:51:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:51:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:51:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:51:21 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:51:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:52:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:52:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:52:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:52:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:52:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:53:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:53:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:53:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:53:44 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:53:45 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:54:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:54:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:54:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:54:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:54:57 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:56:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:56:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:56:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:56:07 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:56:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:57:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:57:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:57:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:57:19 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:57:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:58:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:58:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:58:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:58:30 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:58:31 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:59:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+19:59:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+19:59:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+19:59:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+19:59:42 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+20:00:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+20:00:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+20:00:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+20:00:53 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+20:00:54 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+20:02:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 4/15 candles checked
+20:02:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 4/15 candles checked
+20:02:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 2/15 candles checked
+20:02:04 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+20:02:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:30:00
+20:03:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:03:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:03:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:03:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:03:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:03:18 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:04:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:04:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:04:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:04:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:04:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:04:30 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:05:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:05:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:05:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:05:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:05:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:05:41 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:06:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:06:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:06:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:06:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:06:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:06:53 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:07:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:08:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:08:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:08:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:08:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:08:04 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:09:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:09:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:09:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:09:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:09:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:09:16 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:10:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:10:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:10:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:10:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:10:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:10:27 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:11:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:11:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:11:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:11:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:11:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:11:38 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:12:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:12:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:12:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:12:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:12:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:12:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:13:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:13:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:13:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:14:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:14:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:14:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:15:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:15:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:15:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:15:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:15:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:15:14 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:16:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:16:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:16:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:16:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:16:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:16:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:17:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 5/15 candles checked
+20:17:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 5/15 candles checked
+20:17:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 3/15 candles checked
+20:17:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 1/15 candles checked
+20:17:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 1/15 candles checked
+20:17:37 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 12:45:00
+20:18:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:18:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:18:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:18:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:18:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:18:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:19:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:19:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:19:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:19:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:19:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:19:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:21:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:21:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:21:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:21:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:21:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:21:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:22:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:22:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:22:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:22:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:22:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:22:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:23:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:23:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:23:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:23:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:23:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:23:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:24:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:24:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:24:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:24:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:24:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:24:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:25:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:25:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:25:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:25:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:25:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:25:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:27:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:27:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:27:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:27:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:27:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:27:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:28:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:28:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:28:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:28:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:28:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:28:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:29:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:29:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:29:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:29:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:29:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:29:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:30:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:30:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:30:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:30:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:30:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:30:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:31:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 6/15 candles checked
+20:31:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 6/15 candles checked
+20:31:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 4/15 candles checked
+20:31:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 2/15 candles checked
+20:31:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 2/15 candles checked
+20:31:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 1/15 candles checked
+20:33:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:33:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:33:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:33:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:33:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:33:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:34:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:34:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:34:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:34:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:34:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:34:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:35:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:35:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:35:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:35:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:35:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:35:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:36:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:36:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:36:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:36:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:36:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:36:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:37:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:37:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:37:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:37:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:37:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:37:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:38:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:38:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:38:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:39:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:39:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:39:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:40:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:40:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:40:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:40:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:40:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:40:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:41:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:41:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:41:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:41:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:41:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:41:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:42:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:42:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:42:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:42:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:42:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:42:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:43:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:43:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:43:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:43:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:43:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:43:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:44:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:44:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:44:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:44:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:44:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:44:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:46:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:46:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:46:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:46:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:46:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:46:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:47:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 7/15 candles checked
+20:47:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 7/15 candles checked
+20:47:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 5/15 candles checked
+20:47:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 3/15 candles checked
+20:47:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 3/15 candles checked
+20:47:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 151 | 2/15 candles checked
+20:48:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:48:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:48:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:48:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:48:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:48:35 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4299.794 - 4312.474 | at 2025-10-20 13:30:00
+20:49:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:49:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:49:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:49:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:49:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:50:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:50:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:50:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:50:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:50:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:52:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:52:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:52:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:52:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:52:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:53:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:53:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:53:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:53:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:53:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:54:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:54:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:54:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:54:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:54:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:55:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:55:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:55:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:55:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:55:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:56:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:56:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:56:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:56:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:56:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:58:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:58:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:58:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:58:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:58:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+20:59:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+20:59:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+20:59:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+20:59:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+20:59:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+21:00:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+21:00:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+21:00:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+21:00:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+21:00:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+21:01:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 8/15 candles checked
+21:01:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 8/15 candles checked
+21:01:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 6/15 candles checked
+21:01:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 4/15 candles checked
+21:01:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 4/15 candles checked
+21:02:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:02:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:02:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:02:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:02:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:04:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:04:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:04:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:04:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:04:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:05:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:05:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:05:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:05:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:05:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:06:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:06:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:06:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:06:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:06:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:07:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:07:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:07:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:07:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:07:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:08:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:08:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:08:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:08:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:08:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:09:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:09:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:10:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:10:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:10:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:11:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:11:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:11:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:11:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:11:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:12:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:12:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:12:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:12:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:12:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:13:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:13:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:13:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:13:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:13:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:14:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:14:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:14:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:14:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:14:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:15:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:15:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:15:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:15:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:15:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:17:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 9/15 candles checked
+21:17:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 9/15 candles checked
+21:17:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 7/15 candles checked
+21:17:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 5/15 candles checked
+21:17:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 5/15 candles checked
+21:18:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:18:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:18:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:18:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:18:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:19:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:19:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:19:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:19:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:19:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:20:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:20:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:20:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:20:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:20:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:21:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:21:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:21:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:21:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:21:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:23:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:23:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:23:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:23:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:23:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:24:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:24:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:24:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:24:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:24:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:25:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:25:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:25:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:25:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:25:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:26:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:26:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:26:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:26:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:26:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:27:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:27:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:27:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:27:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:27:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:29:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:29:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:29:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:29:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:29:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:30:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:30:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:30:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:30:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:30:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:31:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:31:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:31:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:31:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:31:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:32:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 10/15 candles checked
+21:32:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 10/15 candles checked
+21:32:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 8/15 candles checked
+21:32:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 6/15 candles checked
+21:32:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 6/15 candles checked
+21:33:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:33:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:33:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:33:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:33:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:34:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:34:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:35:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:35:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:35:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:36:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:36:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:36:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:36:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:36:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:37:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:37:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:37:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:37:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:37:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:38:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:38:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:38:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:38:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:38:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:39:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:39:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:39:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:39:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:39:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:41:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:41:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:41:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:41:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:41:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:42:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:42:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:42:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:42:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:42:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:43:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:43:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:43:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:43:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:43:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:44:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:44:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:44:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:44:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:44:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:45:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:45:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:45:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:45:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:45:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:47:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 11/15 candles checked
+21:47:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 11/15 candles checked
+21:47:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 9/15 candles checked
+21:47:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 7/15 candles checked
+21:47:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 7/15 candles checked
+21:48:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:48:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:48:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:48:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:48:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:48:25 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:48:26 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:49:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:49:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:49:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:49:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:49:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:49:38 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:49:39 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:50:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:50:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:50:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:50:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:50:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:50:51 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:50:52 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:51:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:51:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:52:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:52:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:52:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:52:03 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:52:04 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:53:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:53:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:53:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:53:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:53:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:53:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:53:18 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:54:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:54:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:54:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:54:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:54:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:54:29 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:54:30 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:55:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:55:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:55:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:55:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:55:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:55:42 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:55:43 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:56:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:56:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:56:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:56:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:56:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:56:55 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:56:56 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:58:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:58:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:58:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:58:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:58:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:58:08 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:58:09 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:59:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+21:59:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+21:59:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+21:59:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+21:59:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+21:59:20 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+21:59:22 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:00:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+22:00:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+22:00:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+22:00:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+22:00:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+22:00:33 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:00:34 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:01:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+22:01:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+22:01:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+22:01:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+22:01:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+22:01:46 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:01:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:02:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 12/15 candles checked
+22:02:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 12/15 candles checked
+22:02:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 10/15 candles checked
+22:02:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 8/15 candles checked
+22:02:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 8/15 candles checked
+22:02:59 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:03:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 14:30:00
+22:04:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:04:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:04:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:04:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:04:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:04:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:04:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:05:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:05:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:05:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:05:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:05:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:05:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:05:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:06:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:06:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:06:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:06:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:06:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:06:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:06:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:07:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:07:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:07:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:07:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:07:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:07:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:07:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:09:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:09:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:09:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:09:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:09:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:09:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:09:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:10:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:10:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:10:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:10:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:10:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:10:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:10:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:11:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:11:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:11:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:11:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:11:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:11:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:11:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:12:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:12:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:12:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:12:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:12:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:12:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:12:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:13:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:13:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:14:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:14:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:14:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:14:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:14:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:15:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 13/15 candles checked
+22:15:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 13/15 candles checked
+22:15:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 11/15 candles checked
+22:15:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 9/15 candles checked
+22:15:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 9/15 candles checked
+22:15:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 1/15 candles checked
+22:15:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 1/15 candles checked
+22:16:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:16:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:16:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:16:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:16:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:16:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:16:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:16:34 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:17:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:17:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:17:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:17:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:17:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:17:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:17:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:17:49 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:18:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:18:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:18:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:18:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:19:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:19:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:19:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:19:05 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:20:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:20:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:20:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:20:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:20:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:20:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:20:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:20:27 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:21:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:21:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:21:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:21:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:21:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:21:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:21:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:21:44 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:22:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:22:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:22:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:22:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:22:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:22:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:23:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:23:01 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:24:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:24:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:24:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:24:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:24:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:24:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:24:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:24:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:25:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:25:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:25:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:25:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:25:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:25:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:25:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:25:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:26:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:26:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:26:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:26:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:26:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:26:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:26:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:26:47 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:27:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:27:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:27:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:27:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:27:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:28:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:28:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:28:02 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:29:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:29:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:29:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:29:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:29:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:29:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:29:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:29:17 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:30:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 146 | 14/15 candles checked
+22:30:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 147 | 14/15 candles checked
+22:30:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 12/15 candles checked
+22:30:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 10/15 candles checked
+22:30:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 10/15 candles checked
+22:30:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 2/15 candles checked
+22:30:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 2/15 candles checked
+22:30:32 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-20 15:00:00
+22:31:40 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4257.931 - 4259.723
+22:31:41 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4257.931 - 4259.723
+22:31:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:31:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:31:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:31:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:31:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:31:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:32:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:32:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:32:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:32:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:32:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:33:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:34:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:34:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:34:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:34:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:34:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:34:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:35:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:35:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:35:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:35:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:35:25 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:35:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:36:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:36:34 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:36:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:36:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:36:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:36:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:37:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:37:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:37:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:37:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:37:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:37:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:38:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:39:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:39:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:39:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:39:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:39:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:40:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:40:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:40:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:40:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:40:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:40:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:41:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:41:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:41:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:41:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:41:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:41:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:42:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:42:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:42:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:42:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:42:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:42:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:43:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:43:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:43:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:43:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:43:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:43:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:45:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 13/15 candles checked
+22:45:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 11/15 candles checked
+22:45:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 11/15 candles checked
+22:45:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 3/15 candles checked
+22:45:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 3/15 candles checked
+22:45:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 1/15 candles checked
+22:46:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:46:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:46:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:46:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:46:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:46:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:47:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:47:32 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:47:33 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:47:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:47:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:47:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:48:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:48:45 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:48:46 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:48:47 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:48:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:48:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:49:57 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:49:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:49:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:50:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:50:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:50:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:51:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:51:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:51:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:51:12 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:51:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:51:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:52:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:52:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:52:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:52:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:52:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:52:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:53:35 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:53:36 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:53:37 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:53:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:53:39 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:53:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:54:48 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:54:49 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:54:50 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:54:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:54:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:54:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:56:00 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:56:01 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:56:02 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:56:03 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:56:04 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:56:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:57:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:57:14 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:57:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:57:16 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:57:17 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:57:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:58:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:58:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:58:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:58:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:58:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:58:31 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+22:59:38 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+22:59:40 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+22:59:41 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+22:59:42 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+22:59:43 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+22:59:44 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+23:00:51 | INFO     | RetraceService            | ⏳ Still scanning FVG 148 | 14/15 candles checked
+23:00:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 12/15 candles checked
+23:00:53 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 12/15 candles checked
+23:00:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 4/15 candles checked
+23:00:55 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 4/15 candles checked
+23:00:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 2/15 candles checked
+23:02:04 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4265.227 - 4272.727
+23:02:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 13/15 candles checked
+23:02:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 13/15 candles checked
+23:02:07 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 5/15 candles checked
+23:02:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 5/15 candles checked
+23:02:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 3/15 candles checked
+23:03:18 | INFO     | RetraceService            | ⏳ Still scanning FVG 149 | 13/15 candles checked
+23:03:19 | INFO     | RetraceService            | ⏳ Still scanning FVG 150 | 13/15 candles checked
+23:03:20 | INFO     | RetraceService            | ⏳ Still scanning FVG 152 | 5/15 candles checked
+23:03:21 | INFO     | RetraceService            | ⏳ Still scanning FVG 153 | 5/15 candles checked
+23:03:23 | INFO     | RetraceService            | ⏳ Still scanning FVG 154 | 3/15 candles checked

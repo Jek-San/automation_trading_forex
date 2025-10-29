@@ -1,0 +1,4 @@
+08:55:36 | INFO     | DB.signals                | ✅ Signal inserted: UNKNOWN (sell)
+11:32:53 | INFO     | DB.signals                | ✅ Signal inserted: XAUUSDc (buy)
+12:40:24 | INFO     | DB.signals                | ✅ Signal inserted: XAUUSDc (sell)
+18:49:33 | INFO     | DB.signals                | ✅ Signal inserted: XAUUSDc (sell)

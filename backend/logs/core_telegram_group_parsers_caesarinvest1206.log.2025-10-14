@@ -1,0 +1,19 @@
+05:42:15 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+05:42:15 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+05:42:15 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+05:42:16 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+05:42:16 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+07:55:50 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+08:55:36 | INFO     | core.telegram.group_parsers.caesarinvest1206 | Trying model: ModelSignalV1
+08:55:36 | INFO     | core.telegram.group_parsers.caesarinvest1206 | ✅ Parsed V1 limit signal: {'instrument': 'UNKNOWN', 'action': 'sell', 'range1': '4149.80', 'range2': '4151.00', 'tp1': '4140.80', 'tp2': '4131.20', 'sl': '4160.00', 'comment': 'caesarinvest1206'}
+10:08:59 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+10:10:30 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+10:56:50 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+11:18:42 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+11:22:08 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:09:06 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:10:28 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:12:51 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:40:51 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:44:27 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.
+12:45:57 | WARNING  | core.telegram.group_parsers.caesarinvest1206 | No model matched or parsed successfully.

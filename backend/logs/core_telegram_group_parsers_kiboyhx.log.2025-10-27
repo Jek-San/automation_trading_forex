@@ -1,0 +1,22 @@
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+18:57:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:13:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:16:45 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+21:16:45 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV3
+21:16:45 | INFO     | core.telegram.group_parsers.kiboyhx | ✅ Parsed V3 signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '3995.00', 'range2': '4000.00', 'tp1': '4006.00', 'tp2': '4006.00', 'sl': '3994.00', 'comment': 'kiboyhx'}
+21:18:59 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+21:18:59 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.

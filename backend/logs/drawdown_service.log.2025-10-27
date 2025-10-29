@@ -1,0 +1,9 @@
+07:16:21 | INFO     | drawdown_service          | ✅ Drawdown 5.88% within limit.
+08:48:03 | INFO     | drawdown_service          | ✅ Drawdown 7.45% within limit.
+08:54:22 | INFO     | drawdown_service          | ✅ Drawdown 7.45% within limit.
+09:19:18 | INFO     | drawdown_service          | ✅ Drawdown 7.45% within limit.
+18:57:32 | ERROR    | drawdown_service          | 🚫 Drawdown 10.08% exceeded limit 10.0%
+18:58:35 | ERROR    | drawdown_service          | 🚫 Drawdown 10.08% exceeded limit 10.0%
+19:16:34 | ERROR    | drawdown_service          | 🚫 Drawdown 10.08% exceeded limit 10.0%
+20:31:08 | INFO     | drawdown_service          | ✅ Drawdown 0.00% within limit.
+21:16:50 | INFO     | drawdown_service          | ✅ Drawdown 4.45% within limit.

@@ -1,0 +1,6 @@
+12:02:07 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+12:03:07 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+13:19:00 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+13:19:00 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV3
+13:19:00 | INFO     | core.telegram.group_parsers.kiboyhx | ✅ Parsed V3 signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4017.00', 'range2': '4020.00', 'tp1': '4024.00', 'tp2': '4024.00', 'sl': '4014.00', 'comment': 'range-format'}
+13:43:27 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.

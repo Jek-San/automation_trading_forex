@@ -1,0 +1,333 @@
+12:01:40 | ERROR    | RetraceService            | Error in RetraceService.run_step: 1054 (42S22): Unknown column 'candles_checked' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'candles_checked' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\retrace_service.py", line 30, in run_step
+    fvgs = self._get_pending_fvgs(symbol, timeframe)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\retrace_service.py", line 105, in _get_pending_fvgs
+    cursor.execute(query, (symbol, timeframe, RetraceStatus.PENDING.value, RetraceStatus.ACTIVE.value))
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'candles_checked' in 'field list'
+12:03:19 | ERROR    | RetraceService            | Error in RetraceService.run_step: 1054 (42S22): Unknown column 'mitigated_at' in 'field list'
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'mitigated_at' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\retrace_service.py", line 36, in run_step
+    self._process_fvg(symbol, timeframe, fvg)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\retrace_service.py", line 67, in _process_fvg
+    self._mark_retrace_found(fvg, time)
+  File "D:\RealProject\automation_trading_forex\backend\src\core\strategies\bos_fvg_retrace\retrace_service.py", line 112, in _mark_retrace_found
+    cursor.execute(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "D:\RealProject\automation_trading_forex\backend\venv\lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'mitigated_at' in 'field list'
+12:04:24 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3966.77 - 3972.241 | at 2025-10-10 05:30:00
+12:04:26 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:04:26 | INFO     | RetraceService            | ⏳ Still scanning FVG 2 | 15/15 candles checked
+12:04:28 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:04:28 | INFO     | RetraceService            | ⏳ Still scanning FVG 3 | 15/15 candles checked
+12:04:29 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3988.783 - 3989.974 | at 2025-10-10 11:45:00
+12:04:31 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3988.783 - 3989.974 | at 2025-10-10 11:45:00
+12:04:32 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3982.718 - 3988.446 | at 2025-10-10 14:15:00
+12:04:34 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3982.718 - 3988.446 | at 2025-10-10 14:15:00
+12:04:36 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3982.718 - 3988.446 | at 2025-10-10 14:15:00
+12:04:37 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3982.718 - 3988.446 | at 2025-10-10 14:15:00
+12:04:39 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3994.225 - 4003.292 | at 2025-10-10 15:45:00
+12:04:41 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3994.225 - 4003.292 | at 2025-10-10 15:45:00
+12:04:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3994.225 - 4003.292 | at 2025-10-10 15:45:00
+12:04:44 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3998.782 - 4005.551 | at 2025-10-10 18:15:00
+12:04:46 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3983.83 - 3985.446 | at 2025-10-10 17:15:00
+12:04:47 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 3983.83 - 3985.446 | at 2025-10-10 17:15:00
+12:04:49 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3991.121 - 3995.507 | at 2025-10-10 18:30:00
+12:04:51 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3991.121 - 3995.507 | at 2025-10-10 18:30:00
+12:04:52 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3991.121 - 3995.507 | at 2025-10-10 18:30:00
+12:04:54 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3991.121 - 3995.507 | at 2025-10-10 18:30:00
+12:04:56 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 3991.121 - 3995.507 | at 2025-10-10 18:30:00
+12:04:58 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:04:58 | INFO     | RetraceService            | ⏳ Still scanning FVG 21 | 15/15 candles checked
+12:04:59 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:04:59 | INFO     | RetraceService            | ⏳ Still scanning FVG 22 | 15/15 candles checked
+12:05:01 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4008.478 - 4009.882 | at 2025-10-10 20:00:00
+12:05:03 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4036.197 - 4037.453 | at 2025-10-13 01:00:00
+12:05:04 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4036.197 - 4037.453 | at 2025-10-13 01:00:00
+12:05:06 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4036.197 - 4037.453 | at 2025-10-13 01:00:00
+12:05:08 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4036.197 - 4037.453 | at 2025-10-13 01:00:00
+12:05:09 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:05:11 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:05:13 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:05:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:05:16 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:05:17 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4057.687 - 4062.304 | at 2025-10-13 05:45:00
+12:05:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4057.687 - 4062.304 | at 2025-10-13 05:45:00
+12:05:21 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:05:22 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:05:24 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:05:26 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:05:27 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:05:29 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4074.462 - 4074.946 | at 2025-10-13 09:45:00
+12:05:31 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4076.327 - 4077.763 | at 2025-10-13 11:00:00
+12:05:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4076.327 - 4077.763 | at 2025-10-13 11:00:00
+12:05:34 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4078.173 - 4080.136 | at 2025-10-13 12:15:00
+12:05:36 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4078.173 - 4080.136 | at 2025-10-13 12:15:00
+12:05:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:05:39 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:05:40 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:05:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:05:44 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:05:45 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:05:47 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4100.006 - 4104.865 | at 2025-10-13 16:45:00
+12:05:49 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4104.458 - 4107.117 | at 2025-10-13 18:15:00
+12:05:50 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4104.458 - 4107.117 | at 2025-10-13 18:15:00
+12:05:52 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:05:54 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:05:55 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:05:57 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:05:59 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:06:00 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4110.089 - 4110.756 | at 2025-10-13 22:45:00
+12:06:02 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4110.089 - 4110.756 | at 2025-10-13 22:45:00
+12:06:04 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.089 - 4113.059 | at 2025-10-13 23:15:00
+12:06:05 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.089 - 4113.059 | at 2025-10-13 23:15:00
+12:06:07 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4116.916 - 4125.584 | at 2025-10-14 00:00:00
+12:06:09 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.196 - 4139.192 | at 2025-10-14 01:30:00
+12:06:10 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.196 - 4139.192 | at 2025-10-14 01:30:00
+12:06:12 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:06:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:06:15 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:06:17 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:06:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4159.594 - 4160.562 | at 2025-10-14 04:00:00
+12:06:20 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:06:22 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:06:24 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:06:25 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:06:27 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:06:27 | INFO     | RetraceService            | ⏳ Still scanning FVG 75 | 15/15 candles checked
+12:06:29 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:06:29 | INFO     | RetraceService            | ⏳ Still scanning FVG 76 | 15/15 candles checked
+12:06:30 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:06:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 77 | 15/15 candles checked
+12:06:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4126.794 - 4138.16 | at 2025-10-14 08:30:00
+12:06:33 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4137.519 - 4137.838 | at 2025-10-14 10:15:00
+12:06:35 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.134 - 4136.318 | at 2025-10-14 10:45:00
+12:06:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.134 - 4136.318 | at 2025-10-14 10:45:00
+12:06:38 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4134.56 - 4136.318 | at 2025-10-14 11:15:00
+12:06:40 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4134.56 - 4136.318 | at 2025-10-14 11:15:00
+12:06:42 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4120.043 - 4126.372 | at 2025-10-14 13:30:00
+12:06:43 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4135.085 - 4135.66 | at 2025-10-14 15:45:00
+12:06:45 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4135.085 - 4135.66 | at 2025-10-14 15:45:00
+12:06:47 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4138.42 - 4139.568 | at 2025-10-14 17:00:00
+12:06:49 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4144.419 - 4147.377 | at 2025-10-14 20:00:00
+12:06:50 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4144.419 - 4147.377 | at 2025-10-14 20:00:00
+12:06:52 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4161.941 - 4162.225 | at 2025-10-14 23:45:00
+12:06:54 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:06:55 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:06:57 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:06:59 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4177.043 - 4178.937 | at 2025-10-15 03:00:00
+12:07:00 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4177.043 - 4178.937 | at 2025-10-15 03:00:00
+12:07:02 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4177.043 - 4179.76 | at 2025-10-15 04:15:00
+12:07:04 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4177.043 - 4179.76 | at 2025-10-15 04:15:00
+12:07:05 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4180.345 - 4182.424 | at 2025-10-15 05:00:00
+12:07:07 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4179.967 - 4186.104 | at 2025-10-15 05:30:00
+12:07:09 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4179.967 - 4186.104 | at 2025-10-15 05:30:00
+12:07:10 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4192.64 - 4193.354 | at 2025-10-15 09:15:00
+12:07:12 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4192.64 - 4193.354 | at 2025-10-15 09:15:00
+12:07:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.6 - 4204.197 | at 2025-10-15 09:00:00
+12:07:15 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.6 - 4204.197 | at 2025-10-15 09:00:00
+12:07:17 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4196.716 - 4202.65 | at 2025-10-15 10:00:00
+12:07:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4195.776 - 4195.836 | at 2025-10-15 10:30:00
+12:07:20 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4195.776 - 4195.836 | at 2025-10-15 10:30:00
+12:07:22 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:07:24 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:07:25 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:07:27 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:07:29 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:07:30 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:07:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:07:33 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4203.57 - 4204.146 | at 2025-10-15 18:00:00
+12:07:35 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4203.57 - 4204.146 | at 2025-10-15 18:00:00
+12:07:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4193.262 - 4196.366 | at 2025-10-15 18:15:00
+12:07:38 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4193.262 - 4196.366 | at 2025-10-15 18:15:00
+12:07:40 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.193 - 4200.368 | at 2025-10-15 22:15:00
+12:07:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.193 - 4200.368 | at 2025-10-15 22:15:00
+12:07:43 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.644 - 4214.828 | at 2025-10-16 00:45:00
+12:07:45 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.644 - 4214.828 | at 2025-10-16 00:45:00
+12:07:47 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.661 - 4223.716 | at 2025-10-16 01:45:00
+12:07:48 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.661 - 4223.716 | at 2025-10-16 01:45:00
+12:23:05 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:23:05 | INFO     | RetraceService            | ⏳ Still scanning FVG 2 | 15/15 candles checked
+12:23:06 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:23:06 | INFO     | RetraceService            | ⏳ Still scanning FVG 3 | 15/15 candles checked
+12:23:08 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:23:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 21 | 15/15 candles checked
+12:23:10 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:23:10 | INFO     | RetraceService            | ⏳ Still scanning FVG 22 | 15/15 candles checked
+12:23:11 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:23:11 | INFO     | RetraceService            | ⏳ Still scanning FVG 75 | 15/15 candles checked
+12:23:13 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:23:13 | INFO     | RetraceService            | ⏳ Still scanning FVG 76 | 15/15 candles checked
+12:23:15 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:23:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 77 | 15/15 candles checked
+12:27:31 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:27:33 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 3966.897 - 3970.153
+12:27:34 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:27:36 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4005.142 - 4005.24
+12:27:38 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:27:39 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:27:41 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:33:08 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:34:38 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+12:41:06 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4036.197 - 4037.453 | at 2025-10-13 01:00:00
+12:41:08 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:41:09 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:41:11 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:41:13 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:41:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4054.668 - 4055.71 | at 2025-10-13 04:45:00
+12:41:16 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4057.687 - 4062.304 | at 2025-10-13 05:45:00
+12:41:18 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4057.687 - 4062.304 | at 2025-10-13 05:45:00
+12:41:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:41:21 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:41:22 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:41:24 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:41:26 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4074.12 - 4074.946 | at 2025-10-13 09:15:00
+12:41:27 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4074.462 - 4074.946 | at 2025-10-13 09:45:00
+12:41:29 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4076.327 - 4077.763 | at 2025-10-13 11:00:00
+12:41:31 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4076.327 - 4077.763 | at 2025-10-13 11:00:00
+12:41:32 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4078.173 - 4080.136 | at 2025-10-13 12:15:00
+12:41:34 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4078.173 - 4080.136 | at 2025-10-13 12:15:00
+12:41:35 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:41:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:41:39 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4080.884 - 4083.939 | at 2025-10-13 13:30:00
+12:41:40 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:41:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:41:44 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4097.061 - 4097.13 | at 2025-10-13 15:00:00
+12:41:45 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4100.006 - 4104.865 | at 2025-10-13 16:45:00
+12:41:47 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4104.458 - 4107.117 | at 2025-10-13 18:15:00
+12:41:49 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4104.458 - 4107.117 | at 2025-10-13 18:15:00
+12:41:50 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:41:52 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:41:53 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:41:55 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:41:57 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.712 - 4110.756 | at 2025-10-13 22:15:00
+12:41:58 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4110.089 - 4110.756 | at 2025-10-13 22:45:00
+12:42:00 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4110.089 - 4110.756 | at 2025-10-13 22:45:00
+12:42:02 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.089 - 4113.059 | at 2025-10-13 23:15:00
+12:42:03 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4110.089 - 4113.059 | at 2025-10-13 23:15:00
+12:42:05 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4116.916 - 4125.584 | at 2025-10-14 00:00:00
+12:42:06 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.196 - 4139.192 | at 2025-10-14 01:30:00
+12:42:08 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.196 - 4139.192 | at 2025-10-14 01:30:00
+12:42:10 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:42:11 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:42:13 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:42:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4148.686 - 4154.695 | at 2025-10-14 05:30:00
+12:42:16 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4159.594 - 4160.562 | at 2025-10-14 04:00:00
+12:42:18 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:42:19 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:42:21 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:42:22 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4164.673 - 4165.602 | at 2025-10-14 05:30:00
+12:42:24 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:42:26 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:42:27 | INFO     | RetraceService            | ⌛ Expired | bullish | Zone 4113.254 - 4116.796
+12:42:29 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4126.794 - 4138.16 | at 2025-10-14 08:30:00
+12:42:30 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4137.519 - 4137.838 | at 2025-10-14 10:15:00
+12:42:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.134 - 4136.318 | at 2025-10-14 10:45:00
+12:42:34 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4130.134 - 4136.318 | at 2025-10-14 10:45:00
+12:42:35 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4134.56 - 4136.318 | at 2025-10-14 11:15:00
+12:42:37 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4134.56 - 4136.318 | at 2025-10-14 11:15:00
+12:42:39 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4120.043 - 4126.372 | at 2025-10-14 13:30:00
+12:42:40 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4135.085 - 4135.66 | at 2025-10-14 15:45:00
+12:42:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4135.085 - 4135.66 | at 2025-10-14 15:45:00
+12:42:43 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4138.42 - 4139.568 | at 2025-10-14 17:00:00
+12:42:45 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4144.419 - 4147.377 | at 2025-10-14 20:00:00
+12:42:46 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4144.419 - 4147.377 | at 2025-10-14 20:00:00
+12:42:48 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4161.941 - 4162.225 | at 2025-10-14 23:45:00
+12:42:50 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:42:51 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:42:53 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4168.083 - 4173.925 | at 2025-10-15 02:30:00
+12:42:54 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4177.043 - 4178.937 | at 2025-10-15 03:00:00
+12:42:56 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4177.043 - 4178.937 | at 2025-10-15 03:00:00
+12:42:58 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4177.043 - 4179.76 | at 2025-10-15 04:15:00
+12:42:59 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4177.043 - 4179.76 | at 2025-10-15 04:15:00
+12:43:01 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4180.345 - 4182.424 | at 2025-10-15 05:00:00
+12:43:03 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4179.967 - 4186.104 | at 2025-10-15 05:30:00
+12:43:04 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4179.967 - 4186.104 | at 2025-10-15 05:30:00
+12:43:06 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4192.64 - 4193.354 | at 2025-10-15 09:15:00
+12:43:08 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4192.64 - 4193.354 | at 2025-10-15 09:15:00
+12:43:09 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.6 - 4204.197 | at 2025-10-15 09:00:00
+12:43:11 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.6 - 4204.197 | at 2025-10-15 09:00:00
+12:43:12 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4196.716 - 4202.65 | at 2025-10-15 10:00:00
+12:43:14 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4195.776 - 4195.836 | at 2025-10-15 10:30:00
+12:43:16 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4195.776 - 4195.836 | at 2025-10-15 10:30:00
+12:43:17 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:43:19 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:43:21 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:43:22 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4189.76 - 4192.721 | at 2025-10-15 12:45:00
+12:43:24 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:43:26 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:43:27 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4197.445 - 4204.146 | at 2025-10-15 14:30:00
+12:43:29 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4203.57 - 4204.146 | at 2025-10-15 18:00:00
+12:43:30 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4203.57 - 4204.146 | at 2025-10-15 18:00:00
+12:43:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4193.262 - 4196.366 | at 2025-10-15 18:15:00
+12:43:34 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4193.262 - 4196.366 | at 2025-10-15 18:15:00
+12:43:35 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.193 - 4200.368 | at 2025-10-15 22:15:00
+12:43:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4200.193 - 4200.368 | at 2025-10-15 22:15:00
+12:43:39 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.644 - 4214.828 | at 2025-10-16 00:45:00
+12:43:40 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.644 - 4214.828 | at 2025-10-16 00:45:00
+12:43:42 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.661 - 4223.716 | at 2025-10-16 01:45:00
+12:43:44 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.661 - 4223.716 | at 2025-10-16 01:45:00
+12:59:00 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 05:30:00
+13:14:15 | INFO     | RetraceService            | ⏳ Still scanning FVG 99 | 1/15 candles checked
+13:14:16 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 05:45:00
+13:29:30 | INFO     | RetraceService            | ⏳ Still scanning FVG 99 | 2/15 candles checked
+13:29:31 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4211.717 - 4221.375 | at 2025-10-16 06:00:00
+13:44:47 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4224.19 - 4224.806 | at 2025-10-16 06:15:00
+13:44:48 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 06:15:00
+13:44:50 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 06:15:00
+13:44:51 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 06:15:00
+18:30:01 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.717 - 4221.799 | at 2025-10-16 06:30:00
+18:30:03 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.717 - 4221.799 | at 2025-10-16 06:30:00
+18:30:05 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4211.717 - 4221.799 | at 2025-10-16 06:30:00
+18:30:30 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.844 - 4229.028 | at 2025-10-16 07:30:00
+18:30:32 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4222.844 - 4229.028 | at 2025-10-16 07:30:00
+18:30:34 | INFO     | RetraceService            | ✅ Retrace found | bearish | Zone 4227.935 - 4229.303 | at 2025-10-16 09:45:00
+18:30:35 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4227.935 - 4235.179 | at 2025-10-16 10:30:00
+18:30:37 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4227.935 - 4235.179 | at 2025-10-16 10:30:00
+18:30:38 | INFO     | RetraceService            | ✅ Retrace found | bullish | Zone 4227.935 - 4235.179 | at 2025-10-16 10:30:00
+18:45:45 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:00:52 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:12:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:13:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:21:47 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:35:03 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:35:20 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:39:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+19:57:13 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+20:12:23 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+20:27:34 | INFO     | RetraceService            | [XAUUSDc-M15] No FVG zones waiting for retrace.
+20:42:48 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 13:15:00
+20:42:49 | INFO     | RetraceService            | ⚠️ No candles found after FVG at 2025-10-16 13:15:00
+20:56:08 | INFO     | RetraceService            | ⏳ Still scanning FVG 110 | 1/15 candles checked
+20:56:09 | INFO     | RetraceService            | ⏳ Still scanning FVG 111 | 1/15 candles checked
+20:56:52 | INFO     | RetraceService            | ⏳ Still scanning FVG 110 | 1/15 candles checked
+20:56:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 111 | 1/15 candles checked
+20:57:22 | INFO     | RetraceService            | ⏳ Still scanning FVG 110 | 1/15 candles checked
+20:57:24 | INFO     | RetraceService            | ⏳ Still scanning FVG 111 | 1/15 candles checked
+20:58:54 | INFO     | RetraceService            | ⏳ Still scanning FVG 110 | 1/15 candles checked
+20:58:56 | INFO     | RetraceService            | ⏳ Still scanning FVG 111 | 1/15 candles checked

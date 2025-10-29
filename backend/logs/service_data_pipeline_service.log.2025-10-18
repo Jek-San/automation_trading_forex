@@ -1,0 +1,6 @@
+10:12:29 | INFO     | service.data_pipeline_service | 📊 H1 update started at 10:12:29
+10:12:29 | INFO     | service.data_pipeline_service | 📊 M15 update started at 10:12:29
+10:12:29 | INFO     | service.data_pipeline_service | 📊 D1 update started at 10:12:29
+10:12:29 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 0.36s
+10:12:29 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.38s
+10:12:30 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.41s

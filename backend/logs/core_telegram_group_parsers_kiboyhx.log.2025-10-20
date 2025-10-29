@@ -1,0 +1,7 @@
+14:32:33 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+19:07:05 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+19:16:18 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+19:16:18 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+19:17:35 | INFO     | core.telegram.group_parsers.kiboyhx | Trying model: ModelSignalV1
+19:17:35 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.
+20:18:48 | WARNING  | core.telegram.group_parsers.kiboyhx | No model matched or parsed successfully.

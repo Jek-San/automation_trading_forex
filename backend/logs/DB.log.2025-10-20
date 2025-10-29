@@ -1,0 +1,1 @@
+18:53:34 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'reference_time' in 'field list'

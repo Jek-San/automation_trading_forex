@@ -1,0 +1,1320 @@
+07:16:21 | INFO     | core.mt5.logic            | Price 4070.484 is outside allowed range 4068.45-4070.45
+07:16:21 | ERROR    | core.mt5.logic            | Limit price must be higher than current price for sell
+07:16:21 | INFO     | core.mt5.logic            | signal is : {'id': 170, 'instrument': 'XAUUSDc', 'action': 'sell', 'range1': Decimal('4069.45'), 'range2': Decimal('4069.45'), 'tp1': Decimal('4051.87'), 'tp2': Decimal('4051.87'), 'sl': Decimal('4087.03'), 'comment': 'BOS FVG Retrace (ATR-based)', 'status': 'pending', 'created_at': datetime.datetime(2025, 10, 27, 7, 16, 17), 'message': 'Entry from retrace trade ID 224. Expired 0.1 days', 'price_entry': None, 'risk': Decimal('17.58'), 'reward': Decimal('17.58'), 'type_order': None}
+07:16:21 | INFO     | core.mt5.logic            | Order request: {'action': 5, 'symbol': 'XAUUSDc', 'volume': 0.01, 'type': 5, 'price': 4069.45, 'deviation': 10, 'magic': 234000, 'comment': 'BOS FVG Retrace (ATR-based)', 'type_time': 2, 'type_filling': 1, 'expiration': 1761532821, 'sl': 4087.03, 'tp': 4051.87}
+07:16:22 | INFO     | core.mt5.logic            | Stop order placed ticket=1543248204
+07:16:22 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1543248204
+07:18:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.00
+07:18:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$0.40
+07:18:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.60
+07:19:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.00
+07:19:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.70
+07:19:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.90
+07:20:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.10
+07:20:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.20
+07:20:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.90
+07:21:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$5.20
+07:21:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.50
+07:21:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.20
+07:21:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.80
+07:22:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$0.80
+07:22:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.60
+07:22:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.00
+07:22:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.60
+07:23:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.40
+07:23:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.70
+07:23:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.90
+07:24:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.50
+07:24:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.40
+07:24:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.80
+07:25:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.40
+07:25:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.70
+07:25:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.20
+07:25:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.00
+07:26:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.60
+07:26:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$3.30
+07:26:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.40
+07:27:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$5.50
+07:27:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.40
+07:27:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.20
+07:28:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$4.40
+07:28:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$2.50
+07:28:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.90
+07:28:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.50
+07:29:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.20
+07:29:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.00
+07:29:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.20
+07:29:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$1.40
+07:30:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$0.50
+07:30:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-0.60
+07:30:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.40
+07:31:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.20
+07:31:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.20
+07:31:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.60
+07:31:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.40
+07:32:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.70
+07:32:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.60
+07:32:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.90
+07:33:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.70
+07:33:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.80
+07:33:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.40
+07:34:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.20
+07:34:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.30
+07:34:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.80
+07:34:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.40
+07:35:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.80
+07:35:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.90
+07:35:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.20
+07:36:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.40
+07:36:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.50
+07:36:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.00
+07:36:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.70
+07:37:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.30
+07:37:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.50
+07:37:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.30
+07:38:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.40
+07:38:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.20
+07:38:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.10
+07:38:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.90
+07:39:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.30
+07:39:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.20
+07:39:52 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.50
+07:40:07 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.70
+07:40:22 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.90
+07:40:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.20
+07:41:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.40
+07:41:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.40
+07:41:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.90
+07:41:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.00
+07:42:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.20
+07:42:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.60
+07:42:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.00
+07:43:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.60
+07:43:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.60
+07:43:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.70
+07:43:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.80
+07:44:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.30
+07:44:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.30
+07:44:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.90
+07:45:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-5.80
+07:45:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.70
+07:45:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.60
+07:45:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+07:46:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.20
+07:46:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.50
+07:46:52 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.00
+07:47:07 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.60
+07:47:22 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.50
+07:47:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.20
+07:48:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.80
+07:48:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.70
+07:48:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.10
+07:49:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.60
+07:49:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.40
+07:49:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.30
+07:49:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.10
+07:50:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.10
+07:50:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.50
+07:50:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.10
+07:50:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.70
+07:51:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.00
+07:51:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.40
+07:51:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.70
+07:52:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.90
+07:52:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.50
+07:52:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+07:53:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.70
+07:53:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.30
+07:53:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.40
+07:54:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+07:54:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.20
+07:54:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.80
+07:54:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.80
+07:55:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+07:55:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.80
+07:55:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.30
+07:56:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.00
+07:56:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.20
+07:56:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.50
+07:56:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.70
+07:57:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.00
+07:57:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.80
+07:57:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.70
+07:58:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.80
+07:58:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.30
+07:58:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-11.00
+07:59:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.50
+07:59:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-14.90
+07:59:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-13.50
+07:59:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.80
+08:00:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.80
+08:00:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.90
+08:01:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.30
+08:01:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-7.20
+08:01:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.60
+08:01:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.70
+08:02:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.70
+08:02:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-11.20
+08:02:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+08:02:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-8.60
+08:03:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.10
+08:03:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.30
+08:03:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-9.70
+08:04:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-11.40
+08:04:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-10.70
+08:04:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-11.90
+08:05:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.10
+08:05:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-15.60
+08:48:03 | INFO     | core.mt5.logic            | Order placed ticket=1543923030
+08:48:03 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1543923030
+08:48:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.00
+08:48:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-0.50
+08:48:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-0.40
+08:49:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$0.60
+08:49:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.40
+08:49:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-1.30
+08:50:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.30
+08:50:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.10
+08:50:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.30
+08:51:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.80
+08:51:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.50
+08:51:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.40
+08:52:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.90
+08:52:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.90
+08:52:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-2.70
+08:53:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-4.70
+08:53:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-4.60
+08:53:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-4.90
+08:53:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.20
+08:54:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-3.60
+08:54:22 | INFO     | core.mt5.logic            | Order placed ticket=1543959345
+08:54:22 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1543959345
+08:54:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:54:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:55:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:55:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:55:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:56:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:56:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:56:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:57:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:57:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:57:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:58:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:58:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:58:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:58:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:59:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+08:59:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+08:59:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:00:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:00:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:00:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:01:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:01:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:01:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:02:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:02:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:02:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:03:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:03:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:03:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:03:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:04:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:04:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:04:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:05:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:05:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:05:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:06:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:06:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:06:46 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:06:46 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:06:46 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:06:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:07:01 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:07:01 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:07:01 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:07:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:07:16 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:07:16 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:07:16 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:07:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:07:31 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:07:31 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:07:31 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:07:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:08:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:08:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:08:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:08:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:08:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:08:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:08:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:08:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:08:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:08:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:08:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:08:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:08:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:08:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:08:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:08:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:09:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:09:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:09:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:09:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:09:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:09:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:09:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:09:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:09:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:09:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:09:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:09:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:10:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:10:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:10:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:10:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:10:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:10:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:10:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:10:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:10:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:10:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:10:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:10:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:11:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:11:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:11:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:11:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:11:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:11:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:11:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:11:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:11:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:12:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:12:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:12:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:12:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:13:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:13:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:13:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:14:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:14:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:14:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:15:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:15:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:15:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:16:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:16:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:16:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.80
+09:17:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:17:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:17:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:17:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:18:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:18:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:18:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:19:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=2, EstProfit=$-3.90
+09:19:20 | INFO     | core.mt5.logic            | Order placed ticket=1544184710
+09:19:20 | INFO     | core.mt5.logic            | Order placed ticket=1544184790
+09:19:20 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1544184710
+09:19:20 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1544184790
+09:19:33 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:19:33 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:19:33 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:19:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.80
+09:19:48 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:19:48 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:19:48 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:19:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-11.80
+09:20:03 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:20:03 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:20:04 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:20:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-9.60
+09:20:31 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:20:31 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:20:31 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:20:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.50
+09:20:46 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:20:46 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:20:46 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:20:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.80
+09:21:01 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:21:01 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:21:01 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:21:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.80
+09:21:16 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:21:16 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:21:16 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:21:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.40
+09:21:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:21:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:21:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:21:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.40
+09:22:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:22:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:22:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:22:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.60
+09:22:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:22:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:22:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:22:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.00
+09:22:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:22:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:22:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:22:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.20
+09:22:58 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:22:58 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:22:58 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:22:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.90
+09:23:13 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:23:13 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:23:13 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:23:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.20
+09:23:28 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:23:28 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:23:28 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:23:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.80
+09:23:43 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:23:43 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:23:43 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:23:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.70
+09:24:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:24:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:24:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:24:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:24:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:24:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:24:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:24:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.90
+09:24:41 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.10 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:24:41 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:24:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:24:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.30
+09:24:56 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:24:56 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:24:56 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:24:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.20
+09:25:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:25:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:25:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:25:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.30
+09:25:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:25:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:25:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:25:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.20
+09:25:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:25:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:25:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:25:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.60
+09:26:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:26:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:26:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:26:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.20
+09:26:37 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:26:37 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:26:37 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:26:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.40
+09:26:52 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:26:52 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:26:52 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:26:52 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.00
+09:27:07 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:27:07 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:27:07 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:27:07 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:27:22 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:27:22 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:27:22 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:27:22 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.00
+09:27:50 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:27:50 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:27:50 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:27:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:28:05 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:28:05 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:28:05 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:28:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.00
+09:28:20 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:28:20 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:28:20 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:28:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.50
+09:28:35 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:28:35 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:28:35 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:28:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.20
+09:29:03 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:29:03 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:29:03 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:29:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.70
+09:29:18 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:29:18 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:29:18 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:29:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.40
+09:29:33 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:29:33 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:29:33 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:29:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.00
+09:29:48 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:29:48 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:29:48 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:29:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.20
+09:30:16 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:30:16 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:30:16 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:30:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.20
+09:30:31 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:30:31 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:30:31 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:30:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.80
+09:30:46 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:30:46 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:30:46 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:30:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.40
+09:31:01 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:31:01 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:31:01 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:31:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.10
+09:31:29 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:31:29 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:31:29 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:31:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.20
+09:31:44 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:31:44 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:31:44 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:31:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.20
+09:31:59 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:31:59 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:31:59 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:31:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.80
+09:32:14 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:32:14 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:32:14 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:32:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.00
+09:32:42 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:32:42 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:32:42 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:32:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:32:57 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:32:57 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:32:57 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:32:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.80
+09:33:12 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:33:12 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:33:12 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:33:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.00
+09:33:27 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:33:27 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:33:27 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:33:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:33:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:33:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:33:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:33:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.80
+09:34:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:34:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:34:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:34:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.60
+09:34:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:34:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:34:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:34:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.80
+09:34:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:34:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:34:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:34:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.10
+09:35:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:35:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:35:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:35:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.00
+09:35:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:35:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:35:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:35:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.50
+09:35:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:35:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:35:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:35:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.00
+09:35:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:35:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:35:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:35:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.90
+09:36:21 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:36:21 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:36:21 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:36:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.40
+09:36:36 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:36:36 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:36:36 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:36:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.70
+09:36:51 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:36:51 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:36:51 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:36:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.00
+09:37:06 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:37:06 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:37:06 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:37:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-11.00
+09:37:31 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:37:31 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:37:31 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:37:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-11.70
+09:37:49 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:37:49 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:37:49 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:37:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-11.20
+09:38:04 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:38:04 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:38:04 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:38:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.00
+09:38:19 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:38:19 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:38:19 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:38:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.10
+09:38:48 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:38:48 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:38:48 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:38:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.40
+09:39:03 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:39:03 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:39:03 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:39:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.90
+09:39:18 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:39:18 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:39:18 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:39:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.30
+09:39:33 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:39:33 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:39:33 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:39:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.80
+09:40:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.10
+09:40:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-4.40
+09:40:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-4.20
+09:40:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-5.60
+09:41:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-6.00
+09:41:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-5.70
+09:41:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-5.20
+09:41:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-5.20
+09:42:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-7.80
+09:42:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-7.80
+09:42:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.40
+09:43:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.10
+09:43:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-7.70
+09:43:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-6.30
+09:44:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.40
+09:44:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-6.20
+09:44:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-6.00
+09:45:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-6.80
+09:45:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-7.90
+09:45:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-9.00
+09:46:06 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:46:06 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:46:06 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:46:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.30
+09:46:21 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:46:21 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:46:21 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:46:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.80
+09:46:36 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:46:36 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:46:36 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:46:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.70
+09:46:51 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:46:51 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:46:51 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:46:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.10
+09:47:20 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:47:20 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:47:20 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:47:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.70
+09:47:35 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:47:35 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:47:35 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:47:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.90
+09:47:50 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:47:50 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:47:50 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:47:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.60
+09:48:05 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:48:05 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:48:05 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:48:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.70
+09:48:33 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.20 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:48:33 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:48:33 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:48:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.80
+09:48:48 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:48:48 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:48:48 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:48:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-18.40
+09:49:03 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:49:03 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:49:03 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:49:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-18.80
+09:49:18 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:49:18 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:49:18 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:49:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-18.80
+09:49:47 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:49:47 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:49:47 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:49:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-18.80
+09:50:02 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:50:02 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:50:02 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:50:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.90
+09:50:17 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:50:17 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:50:17 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:50:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.10
+09:50:32 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.20 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:50:32 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:50:32 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:50:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.80
+09:50:59 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:50:59 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:50:59 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:50:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-16.00
+09:51:14 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:51:14 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:51:14 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:51:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.40
+09:51:29 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:51:29 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:51:29 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:51:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.70
+09:51:44 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:51:44 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:51:44 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:51:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.50
+09:52:08 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:52:08 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:52:08 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:52:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-10.30
+09:52:26 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:52:26 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:52:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:52:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-11.90
+09:52:41 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:52:41 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:52:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:52:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.20
+09:52:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-9.00
+09:53:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:53:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:53:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:53:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-9.40
+09:53:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.70
+09:53:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-8.90
+09:54:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-9.20
+09:54:38 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:54:38 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:54:38 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:54:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-12.20
+09:54:53 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:54:53 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:54:53 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:54:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-13.60
+09:55:08 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:55:08 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:55:08 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:55:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.10
+09:55:23 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:55:23 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:55:23 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:55:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.70
+09:55:51 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:55:51 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:55:51 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:55:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.00
+09:56:06 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:56:06 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:56:06 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:56:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.90
+09:56:21 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:56:21 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:56:21 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:56:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-14.80
+09:56:36 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:56:36 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:56:36 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:56:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-15.10
+09:57:04 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.10 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:57:04 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:57:04 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:57:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=4, EstProfit=$-17.60
+09:57:19 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.10 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:57:19 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:57:19 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:57:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.60
+09:57:34 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.90 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:57:34 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:57:34 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:57:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.20
+09:57:49 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:57:49 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:57:49 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:57:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.30
+09:58:17 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:58:17 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:58:17 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:58:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.00
+09:58:32 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:58:32 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:58:32 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:58:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.80
+09:58:47 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:58:47 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:58:47 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:58:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.90
+09:59:02 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:59:02 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:59:02 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:59:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.70
+09:59:26 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+09:59:26 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+09:59:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:59:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.60
+09:59:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+09:59:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+09:59:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+09:59:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.00
+10:00:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:00:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:00:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:00:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.90
+10:00:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.80 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:00:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:00:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:00:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.30
+10:00:43 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:00:43 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:00:43 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:00:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.70
+10:00:58 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.60 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:00:58 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:00:58 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:00:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.10
+10:01:13 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.80 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:01:13 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:01:13 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:01:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.10
+10:01:28 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.20 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:01:28 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:01:28 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:01:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.50
+10:01:58 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:01:58 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:01:58 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:01:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.50
+10:02:13 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:02:13 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:02:13 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:02:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.50
+10:02:28 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.20 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:02:28 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:02:28 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:02:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.70
+10:02:43 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.80 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:02:43 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:02:43 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:02:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-4.30
+10:03:12 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$18.30 target_lock=$12 usd_per_point=$1.000000 points_needed=12.00 entry=4084.4210000000003 current_sl=4100.0
+10:03:12 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.409 (Lock $12)
+10:03:12 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.409, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:03:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-7.80
+10:03:27 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$16.00 target_lock=$12 usd_per_point=$1.000000 points_needed=12.00 entry=4084.4210000000003 current_sl=4100.0
+10:03:27 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.409 (Lock $12)
+10:03:27 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.409, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:03:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-5.30
+10:03:42 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$15.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:03:42 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:03:42 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:03:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-4.50
+10:03:57 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.90 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:03:57 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:03:57 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:03:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-4.40
+10:04:26 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:04:26 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:04:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:04:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.90
+10:04:41 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:04:41 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:04:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:04:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.80
+10:04:56 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:04:56 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:04:56 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:04:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-4.20
+10:05:11 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$14.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:05:11 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:05:11 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:05:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.30
+10:05:42 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.40 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:05:42 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:05:42 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:05:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.70
+10:05:57 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:05:57 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:05:57 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:05:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.20
+10:06:12 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:06:12 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:06:12 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:06:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.80
+10:06:27 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:06:27 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:06:27 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:06:27 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.60
+10:06:56 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:06:56 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:06:56 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:06:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.80
+10:07:11 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:07:11 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:07:11 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:07:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.90
+10:07:26 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:07:26 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:07:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:07:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.10
+10:07:41 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:07:41 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:07:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:07:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.60
+10:08:11 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:08:11 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:08:11 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:08:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.40
+10:08:26 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:08:26 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:08:26 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:08:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.80
+10:08:41 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:08:41 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:08:41 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:08:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.90
+10:08:56 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:08:56 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:08:56 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:08:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.00
+10:09:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:09:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:09:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:09:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.40
+10:09:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:09:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:09:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:09:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.60
+10:09:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:09:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:09:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:09:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.50
+10:10:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:10:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:10:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:10:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.40
+10:10:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:10:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:10:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:10:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:10:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:10:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:10:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:10:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.90
+10:11:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:11:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:11:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:11:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.50
+10:11:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:11:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.90
+10:12:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:12:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:12:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:12:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.70
+10:12:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:12:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:12:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:12:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.80
+10:12:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:12:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:12:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:12:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.70
+10:13:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:13:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:13:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:13:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.30
+10:13:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:13:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:13:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:13:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.90
+10:13:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:13:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:13:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:13:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.40
+10:13:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:13:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:13:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:13:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.70
+10:14:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:14:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:14:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:14:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.00
+10:14:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:14:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:14:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:14:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.90
+10:14:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:14:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:14:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:14:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.10
+10:15:10 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:15:10 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:15:10 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:15:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.60
+10:15:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:15:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:15:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:15:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.30
+10:15:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:15:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:15:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:15:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.30
+10:16:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:16:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:16:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:16:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.20
+10:16:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:16:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:16:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:16:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.80
+10:16:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.80 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:16:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:16:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:16:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-3.30
+10:17:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:17:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:17:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:17:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.80
+10:17:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$13.00 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:17:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:17:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:17:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.50
+10:17:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.60 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:17:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:17:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:17:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.10
+10:18:07 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:18:07 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:18:07 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:18:07 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.60
+10:18:22 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:18:22 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:18:22 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:18:22 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.60
+10:18:37 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:18:37 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:18:37 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:18:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.20
+10:18:52 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:18:52 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:18:52 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:18:52 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.50
+10:19:17 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.70 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:19:17 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:19:17 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:19:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.20
+10:19:36 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:19:36 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:19:36 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:19:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.20
+10:19:51 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.80 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:19:51 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:19:51 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:19:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.10
+10:20:06 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:20:06 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:20:06 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:20:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.60
+10:20:33 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:20:33 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:20:33 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:20:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.80
+10:20:48 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:20:48 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:20:48 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:20:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.10
+10:21:03 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$10.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:21:03 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:21:03 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:21:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$0.70
+10:21:18 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:21:18 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:21:18 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:21:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.40
+10:21:46 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:21:46 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:21:46 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:21:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.30
+10:22:02 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:22:02 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:22:02 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:22:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.50
+10:22:17 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:22:17 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:22:17 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:22:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:22:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.90
+10:23:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:23:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:23:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:23:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:23:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.90
+10:23:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.60 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:23:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:23:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:23:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.90
+10:23:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:24:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:24:28 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:24:28 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:24:28 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:24:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:24:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:24:58 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.20 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:24:58 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:24:58 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:24:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.50
+10:25:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.10
+10:25:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.20
+10:25:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.30
+10:26:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.20
+10:26:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.00
+10:26:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.10
+10:27:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.70
+10:27:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.70
+10:27:53 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:27:53 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:27:53 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:27:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:28:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.00
+10:28:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.30
+10:28:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.20
+10:29:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.20
+10:29:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.00
+10:29:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.10
+10:29:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:30:18 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.10
+10:30:33 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.30
+10:30:48 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.70
+10:31:03 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.00
+10:31:31 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:31:46 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:32:01 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.10
+10:32:16 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:32:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:33:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:33:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:33:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:33:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.50
+10:33:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.80
+10:33:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.90
+10:33:59 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:33:59 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:33:59 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:33:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:34:14 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.50 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:34:14 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:34:14 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:34:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.00
+10:34:29 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:34:29 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:34:29 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:34:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.10
+10:34:44 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:34:44 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:34:44 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:34:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.10
+10:35:11 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:35:11 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:35:11 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:35:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.30
+10:35:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.60
+10:35:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.60
+10:35:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:36:25 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:36:25 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:36:25 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:36:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.50
+10:36:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:36:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:36:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:36:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.20
+10:36:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:36:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:36:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:36:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:37:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.00
+10:37:38 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:37:53 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.80
+10:38:08 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.70
+10:38:23 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.40
+10:38:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.30
+10:39:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.10
+10:39:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.80
+10:39:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.60
+10:40:04 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$7.50
+10:40:19 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.40
+10:40:34 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.60
+10:40:49 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.10
+10:41:17 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$7.70
+10:41:32 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$7.70
+10:41:47 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$7.50
+10:42:02 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.40
+10:42:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.00
+10:42:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.70
+10:43:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.50
+10:43:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.50
+10:43:43 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.80
+10:43:58 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.10
+10:44:13 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.40
+10:44:28 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.10
+10:44:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.60
+10:45:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.60
+10:45:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.70
+10:45:41 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.20
+10:46:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.60
+10:46:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.20
+10:46:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.90
+10:46:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.90
+10:47:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.60
+10:47:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$6.00
+10:47:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.50
+10:48:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.80
+10:48:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.80
+10:48:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.50
+10:49:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.80
+10:49:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.50
+10:49:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.70
+10:50:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.50
+10:50:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.70
+10:50:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.70
+10:51:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$4.90
+10:51:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.10
+10:51:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.40
+10:51:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$5.20
+10:52:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.60
+10:52:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.30
+10:52:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:52:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:52:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:52:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$2.60
+10:53:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$3.60
+10:53:39 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$8.90 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:53:39 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:53:39 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:53:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.60
+10:53:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.40 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:53:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:53:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:53:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.10
+10:54:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.30 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:54:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:54:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:54:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.20
+10:54:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$9.10 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:54:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:54:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:54:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$1.40
+10:54:54 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$11.00 target_lock=$5 usd_per_point=$1.000000 points_needed=5.00 entry=4084.4210000000003 current_sl=4100.0
+10:54:54 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.416 (Lock $5)
+10:54:54 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.416, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:54:54 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-0.50
+10:55:09 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.30 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:55:09 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:55:09 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:55:09 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-1.80
+10:55:24 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.70 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+10:55:24 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+10:55:24 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+10:55:24 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.00
+11:24:37 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$12.50 target_lock=$8 usd_per_point=$1.000000 points_needed=8.00 entry=4084.4210000000003 current_sl=4100.0
+11:24:37 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4100.0 -> new_sl=4084.413 (Lock $8)
+11:24:37 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1543959345, 'sl': 4084.413, 'tp': 4059.5, 'symbol': 'XAUUSDc'}
+11:24:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=3, EstProfit=$-2.00
+20:31:08 | INFO     | core.mt5.logic            | Price 4027.759 is outside allowed range 4032.95-4034.95
+20:31:08 | ERROR    | core.mt5.logic            | Limit price must be lower than current price for buy
+20:31:08 | INFO     | core.mt5.logic            | signal is : {'id': 186, 'instrument': 'XAUUSDc', 'action': 'buy', 'range1': Decimal('4033.95'), 'range2': Decimal('4033.95'), 'tp1': Decimal('4041.98'), 'tp2': Decimal('4041.98'), 'sl': Decimal('4025.93'), 'comment': 'BOS FVG Retrace (ATR-based)', 'status': 'pending', 'created_at': datetime.datetime(2025, 10, 27, 20, 31, 8), 'message': 'Entry from retrace trade ID 236. Expired 0.1 days', 'price_entry': None, 'risk': Decimal('8.02'), 'reward': Decimal('8.02'), 'type_order': None}
+20:31:08 | INFO     | core.mt5.logic            | Order request: {'action': 5, 'symbol': 'XAUUSDc', 'volume': 0.28, 'type': 4, 'price': 4033.95, 'deviation': 10, 'magic': 234000, 'comment': 'BOS FVG Retrace (ATR-based)', 'type_time': 2, 'type_filling': 1, 'expiration': 1761580508, 'sl': 4025.93, 'tp': 4041.98}
+20:31:08 | INFO     | core.mt5.logic            | Stop order placed ticket=1549743512
+20:31:08 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1549743512
+20:33:42 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$47.80 target_lock=$30 usd_per_point=$28.000000 points_needed=1.07 entry=4033.95 current_sl=4025.93
+20:33:42 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $30)
+20:33:42 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:33:42 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$47.80
+20:33:57 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$100.60 target_lock=$70 usd_per_point=$28.000000 points_needed=2.50 entry=4033.95 current_sl=4025.93
+20:33:57 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.952 (Lock $70)
+20:33:57 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.952, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:33:57 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$100.60
+20:34:12 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$74.10 target_lock=$60 usd_per_point=$28.000000 points_needed=2.14 entry=4033.95 current_sl=4025.93
+20:34:12 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.952 (Lock $60)
+20:34:12 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.952, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:34:12 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$74.10
+20:34:37 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$47.60 target_lock=$30 usd_per_point=$28.000000 points_needed=1.07 entry=4033.95 current_sl=4025.93
+20:34:37 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $30)
+20:34:37 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:34:37 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$47.60
+20:34:56 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-36.80
+20:35:11 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-59.90
+20:35:26 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-21.50
+20:35:51 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-16.20
+20:36:06 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-6.50
+20:36:21 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$34.00 target_lock=$20 usd_per_point=$28.000000 points_needed=0.71 entry=4033.95 current_sl=4025.93
+20:36:21 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $20)
+20:36:21 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:36:21 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$34.00
+20:36:36 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$70.60 target_lock=$60 usd_per_point=$28.000000 points_needed=2.14 entry=4033.95 current_sl=4025.93
+20:36:36 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.952 (Lock $60)
+20:36:36 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.952, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:36:36 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$70.60
+20:37:00 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$94.00 target_lock=$70 usd_per_point=$28.000000 points_needed=2.50 entry=4033.95 current_sl=4025.93
+20:37:00 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.952 (Lock $70)
+20:37:00 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.952, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:37:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$94.00
+20:37:15 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$111.60 target_lock=$70 usd_per_point=$28.000000 points_needed=2.50 entry=4033.95 current_sl=4025.93
+20:37:15 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.952 (Lock $70)
+20:37:15 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.952, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:37:15 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$111.60
+20:37:30 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$32.90 target_lock=$20 usd_per_point=$28.000000 points_needed=0.71 entry=4033.95 current_sl=4025.93
+20:37:30 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $20)
+20:37:30 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:37:30 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$32.90
+20:37:45 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$52.50 target_lock=$40 usd_per_point=$28.000000 points_needed=1.43 entry=4033.95 current_sl=4025.93
+20:37:45 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $40)
+20:37:45 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:37:45 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$52.50
+20:38:10 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-15.50
+20:38:25 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$7.80
+20:38:40 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$21.30 target_lock=$16 usd_per_point=$28.000000 points_needed=0.57 entry=4033.95 current_sl=4025.93
+20:38:40 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $16)
+20:38:40 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:38:40 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$21.30
+20:38:55 | INFO     | core.mt5.logic            | DEBUG XAUUSDc: profit=$44.00 target_lock=$30 usd_per_point=$28.000000 points_needed=1.07 entry=4033.95 current_sl=4025.93
+20:38:55 | INFO     | core.mt5.logic            | Prepared SL update for XAUUSDc: current_sl=4025.93 -> new_sl=4033.951 (Lock $30)
+20:38:55 | INFO     | core.mt5.logic            | DRY-RUN: would send order_send for XAUUSDc: {'action': 6, 'position': 1549743512, 'sl': 4033.951, 'tp': 4041.98, 'symbol': 'XAUUSDc'}
+20:38:55 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$44.00
+20:39:20 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-12.30
+20:39:35 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-31.30
+20:39:50 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-31.10
+20:40:05 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-92.70
+20:40:29 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-118.60
+20:40:44 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-152.70
+20:40:59 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-122.10
+20:41:14 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-160.20
+20:41:39 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-192.40
+21:16:51 | INFO     | core.mt5.logic            | Order placed ticket=1550544013
+21:16:51 | INFO     | core.mt5.logic            | Trade record saved to DB for position 1550544013
+21:17:00 | INFO     | core.mt5.logic            | Trailing stop pass complete. Positions=1, EstProfit=$-0.60

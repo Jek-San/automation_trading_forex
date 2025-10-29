@@ -1,0 +1,8 @@
+11:14:57 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'structure_type' in 'field list'
+11:16:07 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'broken_price' in 'field list'
+11:32:00 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'structure_type' in 'field list'
+12:23:10 | ERROR    | DB                        | Database connection error: Unread result found
+12:43:00 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_bos_fvg_retrace_fvg_events' doesn't exist
+12:47:26 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_bos_fvg_retrace_fvg_events' doesn't exist
+12:47:47 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_bos_fvg_retrace_fvg_zones' doesn't exist
+18:55:38 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'pending' in 'field list'

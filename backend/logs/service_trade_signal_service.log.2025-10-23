@@ -1,0 +1,20 @@
+13:42:30 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+13:42:30 | INFO     | service.trade_signal_service | 📡 Found 5 pending signals.
+13:44:58 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+13:44:58 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+13:46:11 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+13:46:11 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+14:31:46 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+14:31:46 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+14:41:22 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+14:41:22 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+14:46:09 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+14:46:09 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+15:16:36 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+15:16:36 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+15:19:02 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+15:19:02 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.
+15:47:05 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+15:47:05 | INFO     | service.trade_signal_service | 📡 Found 2 pending signals.
+19:02:37 | WARNING  | service.trade_signal_service | 🚫 Daily drawdown limit reached. Skipping all new signals.
+19:02:37 | INFO     | service.trade_signal_service | 📡 Found 1 pending signals.

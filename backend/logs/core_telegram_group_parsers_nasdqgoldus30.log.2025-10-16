@@ -1,0 +1,98 @@
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HITS TP1 & TP2 +160PIPS✅✅
+
+ENJOY YOUR PROFITS ❤️❤️
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HITS TP1 & TP2 +160PIPS✅✅
+
+ENJOY YOUR PROFITS ❤️❤️
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4206.00', 'range2': '4208.00', 'tp1': '4210.00', 'tp2': '4214.00', 'sl': '4200.00', 'comment': 'nasdqgoldus30'}
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HIT TP1 +30PIPS✅✅
+05:34:40 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HIT TP1 +30PIPS✅✅
+05:34:40 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+05:37:20 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+08:52:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+08:57:02 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+08:57:02 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+08:57:02 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+08:57:02 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:11:13 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:14:13 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:17:13 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:34:24 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+09:34:24 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'sell', 'range1': '4231.00', 'range2': '4233.00', 'tp1': '4230.00', 'tp2': '4228.00', 'sl': '4240.00', 'comment': 'nasdqgoldus30'}
+09:40:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+09:40:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+09:40:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP1 +20PIPS❤️❤️
+09:40:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+09:40:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP1 +20PIPS❤️❤️
+09:40:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:42:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+09:42:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+09:42:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP2 +40PIPS❤️❤️
+09:42:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+09:42:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP2 +40PIPS❤️❤️
+09:42:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+09:52:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+09:52:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+09:52:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: **XAUUSD SELL TP3** DONE +60PIPS❤️❤️
+😬Move SL to Entry and set BE✅✅
+09:52:35 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+09:52:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: **XAUUSD SELL TP3** DONE +60PIPS❤️❤️
+😬Move SL to Entry and set BE✅✅
+09:52:35 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+10:01:49 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+10:01:49 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4233.00', 'range2': '4235.00', 'tp1': '4240.00', 'tp2': '4250.00', 'sl': '4226.00', 'comment': 'nasdqgoldus30'}
+10:16:04 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+10:16:04 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+10:16:04 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HIT TP1 +60PIPS❤️❤️
+10:16:04 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+10:16:04 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD BUY HIT TP1 +60PIPS❤️❤️
+10:16:04 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+13:21:16 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+13:21:16 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+18:33:39 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+18:33:39 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+18:46:45 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+18:46:45 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+19:49:05 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+19:49:05 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+19:49:05 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+19:49:05 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV2
+19:49:05 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP2 +70PIPS❤️❤️
+19:49:05 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV3
+19:49:05 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | Incomplete short-format signal: XAUUSD SELL HIT TP2 +70PIPS❤️❤️
+19:49:05 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+20:07:32 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+20:07:32 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+20:11:13 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+20:45:50 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.
+20:53:50 | INFO     | core.telegram.group_parsers.nasdqgoldus30 | Trying model: ModelSignalV1
+20:53:50 | WARNING  | core.telegram.group_parsers.nasdqgoldus30 | No model matched or parsed successfully.

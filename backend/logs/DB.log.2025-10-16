@@ -1,0 +1,4 @@
+12:01:40 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'candles_checked' in 'field list'
+12:03:19 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'mitigated_at' in 'field list'
+19:13:13 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_bos_fvg_retrace_trades' doesn't exist
+20:57:24 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'converted_to_signal' in 'where clause'

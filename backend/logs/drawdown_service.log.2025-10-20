@@ -1,0 +1,14 @@
+10:08:44 | ERROR    | drawdown_service          | 🚫 Drawdown 100.00% exceeded limit 10.0%
+10:31:14 | INFO     | drawdown_service          | ✅ Drawdown 0.00% within limit.
+11:31:59 | INFO     | drawdown_service          | ✅ Drawdown 0.00% within limit.
+12:17:14 | INFO     | drawdown_service          | ✅ Drawdown 0.00% within limit.
+13:15:40 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 10.0%
+13:32:25 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 10.0%
+13:39:30 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 10.0%
+14:47:03 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 15.0%
+15:17:39 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 15.0%
+15:47:24 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 15.0%
+16:42:34 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 15.0%
+17:15:50 | ERROR    | drawdown_service          | 🚫 Drawdown 22.66% exceeded limit 15.0%
+17:46:03 | ERROR    | drawdown_service          | 🚫 Drawdown 8.44% exceeded limit 5.0%
+20:48:36 | INFO     | drawdown_service          | ✅ Drawdown 8.44% within limit.

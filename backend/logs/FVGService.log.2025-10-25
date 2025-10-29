@@ -1,0 +1,7 @@
+05:30:59 | INFO     | FVGService                | 🔍 BOS 374 | 7 candles available (previously checked 7)
+05:30:59 | INFO     | FVGService                | 🔄 Still scanning BOS 374 → 7/15 candles checked
+05:31:04 | INFO     | FVGService                | 🔍 BOS 375 | 5 candles available (previously checked 5)
+05:31:04 | INFO     | FVGService                | 🔄 Still scanning BOS 375 → 5/15 candles checked
+05:31:06 | INFO     | FVGService                | 🔍 BOS 376 | 2 candles available (previously checked 0)
+05:31:06 | INFO     | FVGService                | ⏳ Waiting for more candles after BOS at 2025-10-24 14:45:00
+05:31:12 | INFO     | FVGService                | ⚠️ No candles found after BOS at 2025-10-24 15:15:00

@@ -1,0 +1,1 @@
+13:31:02 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 's.type_order' in 'field list'

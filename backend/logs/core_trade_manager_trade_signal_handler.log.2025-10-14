@@ -1,0 +1,7 @@
+08:55:37 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for UNKNOWN
+08:56:07 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for UNKNOWN
+08:56:37 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for UNKNOWN
+09:00:38 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+11:32:56 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+12:40:26 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+18:49:36 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc

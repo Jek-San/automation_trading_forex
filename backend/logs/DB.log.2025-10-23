@@ -1,0 +1,5 @@
+03:43:17 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_market_contexts' doesn't exist
+03:44:19 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_market_contexts' doesn't exist
+05:10:56 | ERROR    | DB                        | Database connection error: 1146 (42S02): Table 'trade_record_position.strategy_market_contexts' doesn't exist
+05:11:20 | ERROR    | DB                        | Database connection error: 1054 (42S22): Unknown column 'timeframe' in 'where clause'
+05:11:50 | ERROR    | DB                        | Database connection error: Could not process parameters: str(XAUUSDc), it must be of type list, tuple or dict

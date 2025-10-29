@@ -1,0 +1,28 @@
+10:12:23 | INFO     | FVGService                | 🔍 BOS 147 | 11 candles available (previously checked 10)
+10:12:24 | INFO     | FVGService                | 🔄 Still scanning BOS 147 → 11/15 candles checked
+10:12:25 | INFO     | FVGService                | 🔍 BOS 148 | 10 candles available (previously checked 9)
+10:12:25 | INFO     | FVGService                | 🔄 Still scanning BOS 148 → 10/15 candles checked
+10:12:27 | INFO     | FVGService                | 🔍 BOS 149 | 4 candles available (previously checked 3)
+10:12:27 | INFO     | FVGService                | 🔄 Still scanning BOS 149 → 4/15 candles checked
+10:12:29 | INFO     | FVGService                | 🔍 BOS 150 | 2 candles available (previously checked 0)
+10:12:29 | INFO     | FVGService                | ⏳ Waiting for more candles after BOS at 2025-10-17 09:15:00
+10:13:38 | INFO     | FVGService                | 🔍 BOS 147 | 17 candles available (previously checked 11)
+10:13:38 | INFO     | FVGService                | ❌ No FVG found after 15 candles for BOS at 2025-10-17 07:00:00. Marked not_found.
+10:13:39 | INFO     | FVGService                | 🔍 BOS 148 | 17 candles available (previously checked 10)
+10:13:39 | INFO     | FVGService                | ❌ No FVG found after 15 candles for BOS at 2025-10-17 07:15:00. Marked not_found.
+10:13:39 | INFO     | FVGService                | 🔍 BOS 149 | 17 candles available (previously checked 4)
+10:13:39 | INFO     | FVGService                | ❌ No FVG found after 15 candles for BOS at 2025-10-17 08:45:00. Marked not_found.
+10:13:40 | INFO     | FVGService                | 🔍 BOS 150 | 17 candles available (previously checked 0)
+10:13:40 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 11:15:00 → gap 4314.286 - 4318.876
+10:13:41 | INFO     | FVGService                | 🔍 BOS 151 | 17 candles available (previously checked 0)
+10:13:41 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 11:15:00 → gap 4314.286 - 4318.876
+10:13:42 | INFO     | FVGService                | 🔍 BOS 152 | 17 candles available (previously checked 0)
+10:13:42 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 11:15:00 → gap 4314.286 - 4318.876
+10:13:43 | INFO     | FVGService                | 🔍 BOS 153 | 17 candles available (previously checked 0)
+10:13:43 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 13:15:00 → gap 4293.64 - 4303.868
+10:13:44 | INFO     | FVGService                | 🔍 BOS 154 | 17 candles available (previously checked 0)
+10:13:44 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 13:15:00 → gap 4293.64 - 4303.868
+10:13:45 | INFO     | FVGService                | 🔍 BOS 155 | 17 candles available (previously checked 0)
+10:13:45 | INFO     | FVGService                | ❌ No FVG found after 15 candles for BOS at 2025-10-17 12:00:00. Marked not_found.
+10:13:46 | INFO     | FVGService                | 🔍 BOS 156 | 17 candles available (previously checked 0)
+10:13:46 | INFO     | FVGService                | ✅ FVG found after BOS (bearish) at 2025-10-17 13:45:00 → gap 4244.903 - 4271.73

@@ -1,0 +1,48 @@
+02:24:51 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+09:45:55 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+09:47:41 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+10:16:01 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+11:10:55 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+11:11:25 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+11:11:56 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:13:03 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:13:33 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:14:03 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:26:42 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:27:12 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:27:42 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:35:33 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:36:03 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:36:33 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:38:13 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:38:43 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:39:13 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:42:01 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:42:31 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:42:56 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:43:26 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:43:56 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:45:52 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:46:22 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:46:52 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:54:28 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:54:58 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:55:28 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:56:54 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:57:24 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+12:57:54 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+13:03:20 | ERROR    | core.trade_manager.trade_signal_handler | Error processing signal ID 31: '_WindowsSelectorEventLoop' object has no attribute 'run_in_execut'
+15:52:11 | ERROR    | core.trade_manager.trade_signal_handler | Error processing signal ID 31: '_WindowsSelectorEventLoop' object has no attribute 'run_in_execut'
+15:57:22 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+15:57:52 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+15:58:22 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+15:59:22 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+15:59:52 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+16:00:22 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+16:01:13 | ERROR    | core.trade_manager.trade_signal_handler | Error processing signal ID 31: '_WindowsSelectorEventLoop' object has no attribute 'run_in_execut'
+16:07:19 | ERROR    | core.trade_manager.trade_signal_handler | Error processing signal ID 31: '_WindowsSelectorEventLoop' object has no attribute 'run_in_execut'
+16:19:19 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc
+16:21:36 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+16:22:06 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+16:22:36 | WARNING  | core.trade_manager.trade_signal_handler | ⚠️ Order attempt failed for XAUUSDc
+16:23:23 | INFO     | core.trade_manager.trade_signal_handler | ✅ Order placed successfully for XAUUSDc

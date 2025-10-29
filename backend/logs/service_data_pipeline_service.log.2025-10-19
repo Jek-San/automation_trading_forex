@@ -1,0 +1,658 @@
+11:00:17 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:00:21 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:00:21
+11:00:21 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:00:21
+11:00:21 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:00:21
+11:01:32 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 71.01s
+11:01:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 71.01s
+11:01:32 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 71.01s
+11:04:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:04:32
+11:04:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:08:02 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:08:02
+11:08:02 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.34s
+11:11:02 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:11:02
+11:11:02 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+11:11:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:11:33
+11:11:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.05s
+11:14:02 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:14:02
+11:14:02 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+11:17:03 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:17:03
+11:17:03 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:20:03 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:20:03
+11:20:03 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:21:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:21:33
+11:21:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+11:23:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:23:04
+11:23:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:26:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:26:04
+11:26:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:29:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:29:04
+11:29:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:31:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:31:33
+11:31:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.09s
+11:32:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:32:04
+11:32:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:35:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:35:04
+11:35:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+11:38:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:38:04
+11:38:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+11:41:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:41:04
+11:41:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:41:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:41:33
+11:41:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+11:44:04 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:44:04
+11:44:04 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+11:47:09 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:47:09
+11:47:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:50:09 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:50:09
+11:50:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:51:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:51:33
+11:51:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+11:53:09 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:53:09
+11:53:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:56:09 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:56:09
+11:56:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+11:57:32 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:57:32 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:57:32 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:57:32 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:57:36 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:57:36 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:57:36
+11:57:36 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:57:36
+11:57:36 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:57:36
+11:57:46 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.72s
+11:57:46 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.72s
+11:57:46 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.72s
+11:57:58 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:57:58 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:57:58 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:57:58 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:58:00 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:58:00 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:58:00
+11:58:00 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:58:00
+11:58:00 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:58:00
+11:58:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.47s
+11:58:10 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.47s
+11:58:10 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.47s
+11:58:25 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:58:25 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:58:25 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:58:25 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:58:27 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:58:27 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:58:27
+11:58:27 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:58:27
+11:58:27 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:58:27
+11:58:36 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:58:36 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:58:36 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:58:36 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:58:38 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:58:38 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:58:38
+11:58:38 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:58:38
+11:58:38 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:58:38
+11:58:48 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.66s
+11:58:48 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.66s
+11:58:48 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.66s
+11:59:09 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:59:09 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:59:09 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:59:09 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:59:11 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:59:11 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:59:11
+11:59:11 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:59:11
+11:59:11 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:59:11
+11:59:21 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.69s
+11:59:21 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.69s
+11:59:21 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.69s
+11:59:45 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+11:59:45 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+11:59:45 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+11:59:45 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+11:59:47 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+11:59:47 | INFO     | service.data_pipeline_service | 📊 M15 update started at 11:59:47
+11:59:47 | INFO     | service.data_pipeline_service | 📊 H1 update started at 11:59:47
+11:59:47 | INFO     | service.data_pipeline_service | 📊 D1 update started at 11:59:47
+11:59:57 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.67s
+11:59:57 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.67s
+11:59:57 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.67s
+12:00:16 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:00:16 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:00:16 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:00:16 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:00:18 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:00:18 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:00:18
+12:00:18 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:00:18
+12:00:18 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:00:18
+12:00:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.77s
+12:00:28 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.77s
+12:00:28 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.77s
+12:03:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:03:28
+12:03:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+12:06:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:06:28
+12:06:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+12:09:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:09:28
+12:09:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+12:10:28 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:10:28
+12:10:28 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.05s
+12:12:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:12:28
+12:12:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+12:15:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:15:28
+12:15:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+12:17:34 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:17:34 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:17:34 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:17:34 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:17:36 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:17:36 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:17:36
+12:17:36 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:17:36
+12:17:36 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:17:36
+12:17:45 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.22s
+12:17:45 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.22s
+12:17:45 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.22s
+12:18:26 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:18:26 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:18:26 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:18:26 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:18:28 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:18:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:18:28
+12:18:28 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:18:28
+12:18:28 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:18:28
+12:18:37 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.09s
+12:18:37 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.09s
+12:18:37 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.11s
+12:19:54 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:19:54 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:19:54 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:19:54 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:19:56 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:19:56 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:19:56
+12:19:56 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:19:56
+12:19:56 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:19:56
+12:20:05 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.06s
+12:20:05 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.08s
+12:20:05 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.06s
+12:21:48 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:21:48 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:21:48 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:21:48 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:21:52 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:21:52 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:21:52
+12:21:52 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:21:52
+12:21:52 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:21:52
+12:22:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.19s
+12:22:01 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.19s
+12:22:01 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.19s
+12:25:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:25:01
+12:25:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+12:28:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:28:01
+12:28:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+12:31:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:31:01
+12:31:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+12:32:01 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:32:01
+12:32:01 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+12:34:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:34:01
+12:34:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+12:37:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:37:01
+12:37:01 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+12:37:58 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:37:58 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:37:58 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:37:58 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:38:00 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:38:00 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:38:00
+12:38:00 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:38:00
+12:38:00 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:38:00
+12:38:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.45s
+12:38:10 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.45s
+12:38:10 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.45s
+12:41:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:41:10
+12:41:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+12:44:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:44:10
+12:44:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+12:45:18 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:45:18 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:45:18 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:45:18 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:45:20 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:45:20 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:45:20
+12:45:20 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:45:20
+12:45:20 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:45:20
+12:45:30 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+12:45:30 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+12:45:30 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+12:45:30 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+12:45:32 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+12:45:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:45:32
+12:45:32 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:45:32
+12:45:32 | INFO     | service.data_pipeline_service | 📊 D1 update started at 12:45:32
+12:45:41 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.26s
+12:45:41 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.26s
+12:45:41 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.26s
+12:48:41 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:48:41
+12:48:41 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.05s
+12:51:41 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:51:41
+12:51:41 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+12:54:41 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:54:41
+12:54:41 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+12:55:41 | INFO     | service.data_pipeline_service | 📊 H1 update started at 12:55:41
+12:55:41 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.00s
+12:57:41 | INFO     | service.data_pipeline_service | 📊 M15 update started at 12:57:41
+12:57:41 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:00:45 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:00:45
+13:00:45 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:03:45 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:03:45
+13:03:45 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:05:41 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:05:41
+13:05:41 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+13:06:45 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:06:45
+13:06:45 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:09:45 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:09:45
+13:09:45 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+13:09:50 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+13:09:50 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+13:09:50 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+13:09:50 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+13:09:52 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+13:09:52 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:09:52
+13:09:52 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:09:52
+13:09:52 | INFO     | service.data_pipeline_service | 📊 D1 update started at 13:09:52
+13:10:02 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.95s
+13:10:02 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.95s
+13:10:02 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.95s
+13:10:05 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+13:10:05 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+13:10:05 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+13:10:05 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+13:10:07 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+13:10:07 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:10:07
+13:10:07 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:10:07
+13:10:07 | INFO     | service.data_pipeline_service | 📊 D1 update started at 13:10:07
+13:10:16 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.67s
+13:10:16 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.67s
+13:10:16 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.67s
+13:13:16 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:13:16
+13:13:16 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:14:41 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+13:14:41 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+13:14:41 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+13:14:41 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+13:14:43 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+13:14:43 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:14:43
+13:14:43 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:14:43
+13:14:43 | INFO     | service.data_pipeline_service | 📊 D1 update started at 13:14:43
+13:14:53 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.08s
+13:14:53 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.08s
+13:14:53 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.08s
+13:16:57 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+13:16:57 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+13:16:57 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+13:16:57 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+13:17:01 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+13:17:01 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:17:01
+13:17:01 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:17:01
+13:17:01 | INFO     | service.data_pipeline_service | 📊 D1 update started at 13:17:01
+13:17:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 8.88s
+13:17:10 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 8.88s
+13:17:10 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 8.88s
+13:20:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:20:10
+13:20:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:23:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:23:10
+13:23:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:26:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:26:10
+13:26:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:27:19 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:27:19
+13:27:19 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.00s
+13:29:10 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:29:10
+13:29:10 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+13:32:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:32:22
+13:32:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:35:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:35:22
+13:35:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:37:26 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:37:26
+13:37:26 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+13:38:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:38:22
+13:38:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+13:41:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:41:22
+13:41:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:44:22 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:44:22
+13:44:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+13:47:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:47:33
+13:47:33 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:47:33
+13:47:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:47:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+13:50:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:50:33
+13:50:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+13:53:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:53:33
+13:53:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+13:56:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:56:33
+13:56:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+13:57:42 | INFO     | service.data_pipeline_service | 📊 H1 update started at 13:57:42
+13:57:42 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.06s
+13:59:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 13:59:33
+13:59:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:00:15 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:00:15 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:00:15 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:00:15 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:00:17 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:00:17 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:00:17
+14:00:17 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:00:17
+14:00:17 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:00:17
+14:00:29 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 11.97s
+14:00:29 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 11.95s
+14:00:29 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 11.95s
+14:01:39 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:01:39 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:01:39 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:01:39 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:01:48 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:01:51 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:01:54 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:01:57 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:02:02 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:02:02 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:02:02 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:02:02 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:02:09 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:02:12 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:02:15 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:02:18 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:02:22 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:02:22 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:02:22 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:02:22 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:03:04 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:03:17 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:03:20 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:03:24 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:03:47 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:03:47
+14:03:47 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+14:03:50 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:03:50
+14:03:51 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.03s
+14:03:54 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:03:54
+14:03:54 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 0.02s
+14:04:57 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:04:57 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:04:57
+14:04:57 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:04:57
+14:04:57 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:04:57
+14:05:06 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.19s
+14:05:06 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.17s
+14:05:06 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.19s
+14:08:06 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:08:06
+14:08:06 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:09:25 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:09:25 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:09:25 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:09:25 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:09:27 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:09:31 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:09:34 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:09:37 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:09:44 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:09:44 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:09:44 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:09:44 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:10:24 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:10:28 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:10:31 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:10:34 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:11:01 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:11:04 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:11:07 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:11:34 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for M15. Retrying in 30s...
+14:11:37 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for H1. Retrying in 30s...
+14:11:40 | ERROR    | service.data_pipeline_service | ❌ MT5 connection failed for D1. Retrying in 30s...
+14:12:09 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:12:09
+14:12:09 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:12:09
+14:12:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+14:12:09 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.05s
+14:12:10 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:12:10
+14:12:10 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 0.01s
+14:12:18 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:12:18 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:12:18 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:12:18 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:12:24 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:12:24 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:12:24
+14:12:24 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:12:24
+14:12:24 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:12:24
+14:12:33 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.14s
+14:12:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.14s
+14:12:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.14s
+14:15:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:15:33
+14:15:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+14:16:17 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:16:17 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:16:17 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:16:17 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:16:19 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:16:19 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:16:19
+14:16:19 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:16:19
+14:16:19 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:16:19
+14:16:28 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.02s
+14:16:28 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.02s
+14:16:28 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.02s
+14:18:04 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+14:18:04 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+14:18:04 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+14:18:04 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+14:18:06 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+14:18:06 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:18:06
+14:18:06 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:18:06
+14:18:06 | INFO     | service.data_pipeline_service | 📊 D1 update started at 14:18:06
+14:18:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.34s
+14:18:15 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.34s
+14:18:15 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.34s
+14:21:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:21:15
+14:21:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+14:24:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:24:15
+14:24:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:27:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:27:15
+14:27:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:28:15 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:28:15
+14:28:15 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.00s
+14:30:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:30:15
+14:30:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+14:33:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:33:15
+14:33:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+14:36:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:36:15
+14:36:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+14:38:15 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:38:15
+14:38:15 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+14:39:15 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:39:15
+14:39:15 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+14:42:21 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:42:21
+14:42:21 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:45:21 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:45:21
+14:45:21 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.08s
+14:48:15 | INFO     | service.data_pipeline_service | 📊 H1 update started at 14:48:15
+14:48:15 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.02s
+14:48:21 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:48:21
+14:48:21 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+14:51:21 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:51:21
+14:51:21 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+14:54:35 | INFO     | service.data_pipeline_service | 📊 M15 update started at 14:54:35
+14:54:35 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+20:35:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:35:32
+20:35:32 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:35:32
+20:35:32 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:35:32
+20:35:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+20:35:32 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.06s
+20:35:32 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 0.03s
+20:38:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:38:32
+20:38:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+20:41:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:41:32
+20:41:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+20:44:32 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:44:32
+20:44:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s
+20:45:46 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:45:46
+20:45:46 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.03s
+20:47:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:47:33
+20:47:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+20:50:33 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:50:33
+20:50:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.05s
+20:51:13 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:51:13 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:51:13 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:51:13 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:51:23 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:51:23 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:51:23
+20:51:23 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:51:23
+20:51:23 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:51:23
+20:51:32 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.03s
+20:51:32 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.03s
+20:51:32 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.03s
+20:52:57 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:52:57 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:52:57 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:52:57 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:52:59 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:52:59 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:52:59
+20:52:59 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:52:59
+20:52:59 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:52:59
+20:53:09 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.41s
+20:53:09 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.41s
+20:53:09 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.41s
+20:53:21 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:53:21 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:53:21 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:53:21 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:53:23 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:53:23 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:53:23
+20:53:23 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:53:23
+20:53:23 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:53:23
+20:53:32 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:53:32 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:53:32 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:53:32 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:54:31 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:54:31 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:54:31
+20:54:31 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:54:31
+20:54:31 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:54:31
+20:54:40 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.22s
+20:54:40 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.22s
+20:54:40 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.22s
+20:55:22 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:55:22 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:55:22 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:55:22 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:55:24 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:55:24 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:55:24
+20:55:24 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:55:24
+20:55:24 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:55:24
+20:55:33 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 8.97s
+20:55:33 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 8.97s
+20:55:33 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 8.97s
+20:58:11 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:58:11 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:58:11 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:58:11 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+20:58:13 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+20:58:13 | INFO     | service.data_pipeline_service | 📊 M15 update started at 20:58:13
+20:58:13 | INFO     | service.data_pipeline_service | 📊 H1 update started at 20:58:13
+20:58:13 | INFO     | service.data_pipeline_service | 📊 D1 update started at 20:58:13
+20:58:23 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+20:58:23 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+20:58:23 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+20:58:23 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:00:13 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:00:13 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:00:13
+21:00:13 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:00:13
+21:00:13 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:00:13
+21:00:22 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.14s
+21:00:22 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.14s
+21:00:22 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.14s
+21:00:54 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:00:54 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:00:54 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:00:54 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:00:57 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:00:57 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:00:57
+21:00:57 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:00:57
+21:00:57 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:00:57
+21:01:07 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 10.09s
+21:01:07 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 10.09s
+21:01:07 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 10.09s
+21:01:25 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:01:25 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:01:25 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:01:25 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:01:28 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:01:28 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:01:28
+21:01:28 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:01:28
+21:01:28 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:01:28
+21:01:39 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 11.33s
+21:01:39 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 11.33s
+21:01:39 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 11.33s
+21:04:39 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:04:39
+21:04:39 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+21:06:17 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:06:17 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:06:17 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:06:17 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:06:19 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:06:19 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:06:19
+21:06:19 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:06:19
+21:06:19 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:06:19
+21:06:29 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 9.69s
+21:06:29 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 9.69s
+21:06:29 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 9.69s
+21:09:29 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:09:29
+21:09:29 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.03s
+21:10:33 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:10:33 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:10:33 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:10:33 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:10:37 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:10:37 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:10:37
+21:10:37 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:10:37
+21:10:37 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:10:37
+21:10:48 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 10.88s
+21:10:48 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 10.88s
+21:10:48 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 10.88s
+21:11:09 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:11:09 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:11:09 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:11:09 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:11:12 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:11:12 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:11:12
+21:11:12 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:11:12
+21:11:12 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:11:12
+21:11:24 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 12.11s
+21:11:24 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 12.11s
+21:11:24 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 12.11s
+21:14:24 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:14:24
+21:14:24 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+21:16:11 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:16:11 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:16:11 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:16:11 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:16:13 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:16:13 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:16:13
+21:16:13 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:16:13
+21:16:13 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:16:13
+21:16:25 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 11.09s
+21:16:25 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 11.09s
+21:16:25 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 11.09s
+21:19:25 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:19:25
+21:19:25 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+21:21:39 | INFO     | service.data_pipeline_service | 🛑 Stopping Data Pipeline Service...
+21:21:39 | INFO     | service.data_pipeline_service | ⏹️ M15 loop cancelled.
+21:21:39 | INFO     | service.data_pipeline_service | ⏹️ H1 loop cancelled.
+21:21:39 | INFO     | service.data_pipeline_service | ⏹️ D1 loop cancelled.
+21:21:41 | INFO     | service.data_pipeline_service | 🚀 Starting Data Pipeline Service...
+21:21:42 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:21:42
+21:21:42 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:21:42
+21:21:42 | INFO     | service.data_pipeline_service | 📊 D1 update started at 21:21:42
+21:21:55 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 12.78s
+21:21:55 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 12.78s
+21:21:55 | INFO     | service.data_pipeline_service | ✅ D1 update completed in 12.78s
+21:24:55 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:24:55
+21:24:55 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.06s
+21:27:55 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:27:55
+21:27:55 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.00s
+21:30:55 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:30:55
+21:30:55 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.01s
+21:31:55 | INFO     | service.data_pipeline_service | 📊 H1 update started at 21:31:55
+21:31:55 | INFO     | service.data_pipeline_service | ✅ H1 update completed in 0.00s
+21:33:55 | INFO     | service.data_pipeline_service | 📊 M15 update started at 21:33:55
+21:33:55 | INFO     | service.data_pipeline_service | ✅ M15 update completed in 0.02s

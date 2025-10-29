@@ -1,0 +1,23 @@
+/* Base editor styles */
+.ql-toolbar {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  color: #ddd;
+}
+
+.ql-toolbar button {
+  color: #ccc;
+}
+
+.ql-editor {
+  min-height: 200px;
+  background-color: #0d1117;
+  color: #fff;
+  border: 1px solid #333;
+  padding: 1rem;
+}
+
+/* Optional: Placeholder style */
+.ql-editor.ql-blank::before {
+  color: #666;
+}

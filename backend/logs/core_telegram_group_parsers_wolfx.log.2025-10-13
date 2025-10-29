@@ -1,0 +1,26 @@
+09:57:40 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+09:57:40 | INFO     | core.telegram.group_parsers.wolfx | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '441.00', 'range2': '443.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:06:59 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:29:26 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:29:26 | INFO     | core.telegram.group_parsers.wolfx | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4039.00', 'range2': '4442.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:29:26 | WARNING  | core.telegram.group_parsers.wolfx | Rejected by sanity check: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4039.00', 'range2': '4442.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:29:26 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:33:10 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:33:10 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:39:10 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:39:10 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:42:42 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:42:42 | INFO     | core.telegram.group_parsers.wolfx | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4039.00', 'range2': '4442.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:42:42 | WARNING  | core.telegram.group_parsers.wolfx | Rejected by sanity check: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4039.00', 'range2': '4442.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:42:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+10:46:42 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:46:42 | INFO     | core.telegram.group_parsers.wolfx | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4039.00', 'range2': '4442.00', 'tp1': '4045.00', 'tp2': '4048.00', 'sl': '4034.00', 'comment': 'wolfxsignals'}
+10:47:23 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+10:47:23 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+19:48:42 | INFO     | core.telegram.group_parsers.wolfx | Trying model: ModelSignalV1
+19:48:42 | INFO     | core.telegram.group_parsers.wolfx | ✅ Parsed signal: {'instrument': 'XAUUSDc', 'action': 'buy', 'range1': '4070.00', 'range2': '4073.00', 'tp1': '4076.00', 'tp2': '4079.00', 'sl': '4066.00', 'comment': 'wolfxsignals'}
+19:48:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+19:48:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+19:48:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+19:48:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
+19:48:42 | WARNING  | core.telegram.group_parsers.wolfx | No model matched or parsed successfully.
