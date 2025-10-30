@@ -26,7 +26,7 @@ Catatan
 
 Proyek ini masih dalam tahap pengembangan fitur analisis lanjutan dan pengujian real-time trading environment.
 
-==============================================================================================================================================================
+===============================================================
 
 An automated Forex trading system integrated with Telegram API, designed to read and process trading signals in real time.
 The main focus is detecting patterns such as liquidity sweep and break of structure, then simulating scalping setups automatically based on historical candlestick data.
